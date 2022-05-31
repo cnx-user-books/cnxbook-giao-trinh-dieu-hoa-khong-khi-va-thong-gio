@@ -1,0 +1,3812 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Thiết kế hệ thống vận chuyển và phân phối không khí</title>
+  <metadata>
+  <md:content-id>m30013</md:content-id><md:title>Thiết kế hệ thống vận chuyển và phân phối không khí</md:title>
+  <md:abstract>Hệ thống phân phối và vận chuyển không khí bao gồm các phần như sau:
+	- Hệ thống đường ống gió
+	- Hệ thống các miệng thổi và hút
+	- Quạt gió.</md:abstract>
+  <md:uuid>abd0da47-5952-4499-8a24-23b1bd4d2441</md:uuid>
+</metadata>
+
+<content>
+    <para id="id19725288">THIẾT KẾ HỆ THỐNG KÊNH GIÓ </para>
+    <para id="id19725296">Trong hệ thống điều hoà không khí hệ thống kênh gió có chức năng dẫn và phân gió tới các nơi khác nhau tuỳ theo yêu cầu. </para>
+    <para id="id19725306">Nhiệm vụ của người thiết kế hệ thống kênh gió là phải đảm bảo các yêu cầu cơ bản sau :</para>
+    <para id="id19725314">- Ít gây ồn .</para>
+    <para id="id19725320">- Tổn thất nhiệt nhỏ.</para>
+    <para id="id19725328">- Trở lực đường ống bé.</para>
+    <para id="id19725334">- Đường ống gọn, đẹp và không làm ảnh hưởng mỹ quan công trình.</para>
+    <para id="id19725342">- Chi phí đầu tư và vận hành thấp.</para>
+    <para id="id19725349">- Tiện lợi cho người sử dụng.</para>
+    <para id="id19725356">- Phân phối gió cho các hộ tiêu thụ đều.</para>
+    <section id="id-827139690932">
+      <title>Hệ thống kênh gió </title>
+      <section id="id-466926857518">
+        <title>Phân loại</title>
+        <para id="id19725380">Đường ống gió được chia làm nhiều loại dựa trên các cơ sở khác nhau :</para>
+        <para id="id19725387">* Theo chức năng :</para>
+        <para id="id19725392">Theo chức năng người ta chia hệ thống kênh gió ra làm các loại chủ yếu sau :</para>
+        <para id="id19725400">- Kênh cấp gió (Supply Air Duct - SAD)</para>
+        <para id="id19725408">- Kênh hồi gió (Return Air Duct - RAD)</para>
+        <para id="id19725415">- Kênh cấp gió tươi (Fresh Air Duct)</para>
+        <para id="id19725422">- Kênh thông gió (Ventilation Air Duct)</para>
+        <para id="id19725429">- Ống thải gió(Exhaust Air Duct)</para>
+        <para id="id19725436">* Theo tốc độ gió :</para>
+        <para id="id19725443">Theo tốc độ người ta chia ra loại tốc độ cao và thấp, cụ thể như sau :</para>
+        <para id="id19725452">Bảng 6-1</para>
+        <table id="id19725484" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Loại kênh gió</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c2">Hệ thống điều hòa dân dụng</entry>
+                      <entry namest="c3" nameend="c4">Hệ thống điều hòa công nghiệp</entry>
+                    </row>
+                    <row>
+                      <entry>Cấp gió</entry>
+                      <entry>Hồi gió</entry>
+                      <entry>Cấp gió</entry>
+                      <entry>Hồi gió</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>- Tốc độ thấp</entry>
+                <entry>&lt; 12,7 m/s</entry>
+                <entry>&lt; 10,2 m/s</entry>
+                <entry>&lt; 12,7 m/s</entry>
+                <entry>&lt; 12,7 m/s</entry>
+              </row>
+              <row>
+                <entry>- Tốc độ cao</entry>
+                <entry>&gt; 12,7 m/s</entry>
+                <entry>-</entry>
+                <entry>12,7 - 25,4m/s</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id19725730">* Theo áp suất</para>
+        <para id="id19725736">Theo áp suất người ta chia ra làm 3 loại : Áp suất thấp, trung bình và cao như sau :</para>
+        <para id="id19725744">- Áp suất thấp: 95 mmH2O</para>
+        <para id="id19725762">- Áp suất trung bình: 95  172 mmH2O</para>
+        <para id="id19725784">- Áp suất cao: 172  310 mmH2O</para>
+        <para id="id19725807">* Theo kết cấu và vị trí lắp đặt :</para>
+        <para id="id19725814">- Kênh gió treo</para>
+        <para id="id19725821">- Kênh gió ngầm</para>
+      </section>
+      <section id="id-345028125226">
+        <title>Hệ thống kênh gió ngầm</title>
+        <para id="id19725837">- Kênh thường được xây dựng bằng gạch hoặc bê tông và đi ngầm dưới đất. Kênh gió ngầm thường kết hợp dẫn gió và lắp đặt các hệ thống đường nước, điện, điện thoại đi kèm nên gọn gàng và tiết kiệm chi phí nói chung.</para>
+        <para id="id19725852">- Kênh gió ngầm được sử dụng khi không gian lắp đặt không có hoặc việc lắp đặt các hệ thống kênh gió treo không thuận lợi, chi phí cao và tuần hoàn gió trong phòng không tốt.</para>
+        <para id="id19725865">- Kênh gió ngầm thường sử dụng làm kênh gió hồi, rất ít khi sử dụng làm kênh gió cấp do sợ ảnh hưởng chất lượng gió sau khi đã xử lý do ẩm mốc trong kênh, đặc biệt là kênh gió cũ đã hoạt động lâu ngày. Khi xây dựng cần phải xử lý chống thấm kênh gió thật tốt.</para>
+        <para id="id19725881">- Kênh thường có tiết diện chữ nhật và được xây dựng sẵn khi xây dựng công trình.</para>
+        <para id="id19725890">- Hệ thống kênh gió ngầm thường được sử dụng trong các nhà máy dệt, rạp chiếu bóng. Các kênh gió ngầm này có khả năng thu gom các sợi bông tạo điều kiện khử bụi trong xưởng tốt. Vì vậy trong các nhà máy dệt, nhà máy chế biến gỗ để thu gom bụi người ta thường hay sử dụng hệ thống kênh gió kiểu ngầm.</para>
+      </section>
+      <section id="id-207749423534">
+        <title>Hệ thống ống kiểu treo.</title>
+        <para id="id19725914">Hệ thống kênh treo là hệ thống kênh được treo trên các giá đỡ đặt ở trên cao. Do đó yêu cầu đối với kênh gió treo là :</para>
+        <para id="id19725925">- Kết cấu gọn, nhẹ</para>
+        <para id="id19725931">- Bền và chắc chắn</para>
+        <para id="id19725936">- Dẫn gió hiệu quả, thi công nhanh chóng.</para>
+        <para id="id19725943">Vì vậy kênh gió treo được sử dụng rất phổ biến trên thực tế (hình 6.1).</para>
+        <figure id="id19725954">
+          <media id="id3199984" alt=""><image src="../../media/graphics1-120a.png" mime-type="image/png" height="330" width="376"/></media>
+        </figure>
+        <para id="id19725978"/>
+        <para id="id19725988">* Vật liệu sử dụng : Tole tráng kẽm, inox, nhựa tổng hợp, foam định hình.</para>
+        <para id="id19726000">Trên thực tế sử dụng phổ biến nhất là tôn tráng kẽm có bề dày trong khoảng từ 0,5  1,2mm theo tiêu chuẩn qui định phụ thuộc vào kích thước đường ống. Trong một số trường hợp do môi trường có độ ăn mòn cao có thể sử dụng chất dẻo hay inox. Hiện nay người ta có sử dụng foam để làm đường ống : ưu điểm nhẹ , nhưng gia công và chế tạo khó, do đặc điểm kích thước không tiêu chuẩn của đường ống trên thực tế.</para>
+        <para id="id19726035">Khi chế tạo và lắp đặt đường gió treo cần tuân thủ các qui định về chế tạo và lắp đặt. Hiện nay ở Việt nam vẫn chưa có các qui định cụ thể về thiết kế chế tạo đường ống. Tuy nhiên chúng ta có thể tham khảo các qui định đó ở các tài liệu nước ngoài như DW142, SMACNA. Bảng 6.2 trình bày một số qui cách về chế tạo và lắp đặt đường ống gió.</para>
+        <para id="id19726064">Bảng 6.2 : Các qui định về gia công và lắp đặt ống gió</para>
+        <table id="id19726073" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Cạnh lớn của ống gió, mm</entry>
+                <entry>Thanh sắt treo, mm</entry>
+                <entry>Thanh đỡ, mm</entry>
+                <entrytbl namest="c4" nameend="c5" cols="2">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c2">Độ dày tôn, mm</entry>
+                    </row>
+                    <row>
+                      <entry>Áp suất thấp, trung bình</entry>
+                      <entry>Áp suất cao</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>Khẩu độ giá đỡ, mm</entry>
+              </row>
+              <row>
+                <entry>400600800100012501600200025003000</entry>
+                <entry>F6F8F8F8F10F10F10F12F12</entry>
+                <entry>25x25x325x25x330x30x330x30x340x40x540x40x540x40x540x40x540x40x5</entry>
+                <entry>0,60,80,80,81,01,01,01,01,2</entry>
+                <entry>0,80,80,80,81,01,01,21,2-</entry>
+                <entry>300030003000250025002500250025002500</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id19726462">* Hình dạng tiết diện : </para>
+        <para id="id19726471">Hình dáng kênh gió rất đa dạng : Chữ nhật, tròn, vuông, . .vv. Tuy nhiên, kênh gió có tiết diện hình chữ nhật được sử dụng phổ biến hơn cả vì nó phù hợp với kết cấu nhà, dễ treo đỡ, chế tạo, bọc cách nhiệt và đặc biệt các chi tiết cút, xuyệt, chạc 3, chạc 4 . .vv dễ chế tạo hơn các kiểu tiết diện khác.</para>
+        <para id="id19726495">* Cách nhiệt:Để tránh tổn thất nhiệt, đường ống thường bọc một lớp cách nhiệt bằng bông thủy tinh, hay stirofor, bên ngoài bọc lớp giấy bạc chống cháy và phản xạ nhiệt. Để tránh chuột làm hỏng người ta có thể bọc thêm lớp lưới sắt mỏng.</para>
+        <para id="id19726517">- Khi đường ống đi ngoài trời người ta bọc thêm lớp tôn ngoài cùng để bảo vệ mưa nắng</para>
+        <para id="id19726529">- Đường ống đi trong không gian điều hòa có thể không cần bọc cách nhiệt. Tuy nhiên cần lưu ý khi hệ thống mới hoạt động, nhiệt độ trong phòng còn cao thì có khả năng đọng sương trên bề mặt ống.</para>
+        <para id="id19726543">* Ghép nối ống:</para>
+        <para id="id19726548">- Để tiện cho việc lắp ráp, chế tạo, vận chuyển đường ống được gia công từng đoạn ngắn theo kích cỡ của các tấm tôn. Việc lắp ráp thực hiện bằng bích hoặc bằng các nẹp tôn. Bích có thể là nhôm đúc, sắt V hoặc bích tôn.</para>
+        <para id="id19726563">* Treo đỡ:</para>
+        <para id="id19726568">- Việc treo đường ống tùy thuộc vào kết cấu công trình cụ thể : Treo tường, trần nhà, xà nhà . </para>
+        <para id="id19726577">- Khi nối kênh gió với thiết bị chuyển động như quạt, động cơ thì cần phải nối qua ống nối mềm để khử chấn động theo kênh gió.</para>
+        <para id="id19726595">- Khi kích thước ống lớn cần làm gân gia cường trên bề mặt ống gió.</para>
+        <para id="id19726606">- Đường ống sau khi gia công và lắp ráp xong cần làm kín bằng silicon.</para>
+      </section>
+    </section>
+    <section id="id-0968366200231">
+      <title>Thiết kế hệ thống kênh gió</title>
+      <section id="id-730590723275">
+        <title>Các cơ sở lý thuyết </title>
+        <para id="id19726632">1) Quan hệ giữa lưu lượng và tốc độ gió ra miệng thổi.</para>
+        <para id="id19726639">Nhiệm vụ của người thiết kế hệ thống kênh gió là phải đảm bảo phân bố lưu lượng gió cho các miệng thổi đều nhau. Giả sử tất cả các miệng thổi có kích cỡ giống nhau, để lưu lượng gió ra các miệng thổi bằng nhau ta chỉ cần khống chế tốc độ gió trung bình ở các miệng thổi bằng nhau là được. </para>
+        <para id="id19726654">Lưu lượng gió chuyển động qua các miệng thổi được xác định theo công thức:</para>
+        <para id="id19726664">gx = fx.vx , m3/s(6-1)</para>
+        <para id="id19726704">gx - Lưu lượng gió ra một miệng thổi, m3/s</para>
+        <para id="id19726720">fx - Tiết diện thoát gió của miệng thổi, m2.</para>
+        <para id="id19726738">vx - Tốc độ trung bình của gió ra miệng thổi, m/s</para>
+        <para id="id19726750"/>
+      </section>
+      <section id="id-624958016282">
+        <title>2) Quan hệ giữa cột áp tĩnh trên đường và vận tốc không khí ra các miệng thổi .</title>
+        <para id="id19726773">Tốc độ trung bình vx ở đầu ra miệng thổi được tính theo công thức :</para>
+        <para id="id19726786">vx = gx/fx , m/s(6-2)</para>
+        <para id="id19726818">Thực ra do bị nén ép khi ra khỏi miệng thổi nên tiết diện bị giảm và nhỏ hơn tiết diện thoát gió thực.</para>
+        <para id="id19726828">Theo định luật Becnuli áp suất thừa của dòng không khí (còn gọi là áp suất tĩnh Ht) đã chuyển thành cột áp động của dòng không khí chuyển động ra miệng thổi : </para>
+        <para id="id19726847">px - po = .(’.vx)2 /2 = Ht , Pa</para>
+        <para id="id19726890">px, là áp suất tuyệt đối của dòng không khí trong ống dẫn trước miệng thổi, N/m2</para>
+        <para id="id19726907">po là áp suất không khí môi trường nơi gió thổi vào, N/m2</para>
+        <para id="id19726926">’ Hệ số thu hẹp dòng phụ thuộc điều kiện thổi ra của dòng không khí</para>
+        <para id="id19726940">Ht - Cột áp tĩnh tại tiết diện nơi đặt miệng thổi , N/m2</para>
+        <para id="id19726956">(6-3)
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mi>β</m:mi></m:mrow><m:mi>'</m:mi><m:mtext>.</m:mtext><m:msqrt><m:mfrac><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>ρ</m:mi></m:mfrac></m:msqrt><m:mi>,</m:mi><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">/</m:mo><m:mi>s</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{x} } =β' "."  sqrt { {  {2 "." H rSub { size 8{t} } }  over  {ρ} } } ,m/s} {}</m:annotation></m:semantics></m:math>Từ đó rút ra :</para>
+        <para id="id19727090">Theo (6-1) và (6-3) có thể nhận thấy để đảm bảo phân bố gió cho các miệng thổi đều nhau người thiết kế phải đảm bảo áp suất tĩnh dọc theo đường ống không đổi là được.</para>
+        <para id="id19727103">Vì vậy thay vì khảo sát tốc độ ra miệng thổi vx (hay gx vì tiết diện của các miệng thổi đều nhau) ta khảo sát phân bố cột áp tĩnh Ht dọc theo đường ống để xem xét với điều kiện nào phân bố cột áp tĩnh sẽ đồng đều trên toàn tuyến ống.</para>
+        <para id="id19727145"/>
+        <para id="id19727149">3) Sự phân bố cột áp tĩnh dọc đường ống dẫn gió.</para>
+        <para id="id19727155">Xét một đường ống gió, tốc độ gió trung bình và cột áp tĩnh của dòng không khí tại tiết diện có miệng thổi đầu tiên là 1 và H1 , của miệng thổi thứ 2 là 2 và H2 ... và của miệng thổi thứ n là n và Hn (hình 6-2).</para>
+        <para id="id19727223">Trở kháng thủy lực tổng của đường ống là p</para>
+        <para id="id19727236">Theo định luật Becnuli ta có :</para>
+        <para id="id19727241">H1 + 21 /2 = Hn + 2n /2 + p(6-4)</para>
+        <figure id="id19727297">
+          <media id="id6841661" alt=""><image src="../../media/graphics2-a234.png" mime-type="image/png" height="181" width="405"/></media>
+        </figure>
+        <para id="id19727321">Hay:</para>
+        <para id="id19727325">Hn = H1 + (21 - 2n)/2 - p</para>
+        <para id="id19727380">Từ đó suy ra :</para>
+        <para id="id19727385">H = Hn - H1 = (21 - 2n)/2 - p (6-5)</para>
+        <para id="id19727449">Thành phần (21 - 2n)/2 gọi là độ giảm cột áp động. </para>
+        <para id="id19727495">Như vậy để duy trì cột áp tĩnh trên tuyến ống không đổi H =0 ta phải thiết kế hệ thống kênh gió sao cho (21 - 2n)/2 - p = 0</para>
+        <para id="id19727554">Ta có các trường hợp có thể xãy ra như sau:</para>
+        <para id="id19727561">a) Trường hợp (21 - 2n)/2 = p : Giảm cột áp động bằng tổng tổn thất trên tuyến ống. </para>
+        <para id="id19727631">Như vậy cột áp động đã biến một phần để bù vào tổn thất trên tuyến ống.</para>
+        <para id="id19727638">Khi đó : H1 = Hn nghĩa là cột áp tĩnh không thay đổi dọc theo đường ống. Đây là trường hợp lý tưởng, tốc độ và lưu lượng ở các miệng thổi sẽ đều nhau. </para>
+        <para id="id19727664">b) Trường hợp (21 - 2n)/2 &gt; p hay H1 &lt; Hn </para>
+        <para id="id19727742">Giảm cột áp động lớn hơn tổng tổn thất áp lực trên tuyến ống.</para>
+        <para id="id19727750">Trong trường hợp này ta có Hn &gt; H1 , phần cột áp động dư thừa góp phần làm tăng cột áp tĩnh cuối đường ống, lượng lượng gió các miệng thổi cuối lớn hơn, hay gió dồn vào cuối tuyến ống.</para>
+        <para id="id19727775">Trường hợp này có thể xãy ra khi :</para>
+        <para id="id19727781">- Tốc độ đoạn đầu quá lớn, nên áp suất tĩnh trên trong ống rất nhỏ trong khi tốc độ đoạn cuối nhỏ. Trong một số trường hợp nếu tốc độ đi ngang qua tiết diện nơi lắp các miệng thổi ở đoạn đầu quá lớn thì các miệng thổi đầu có thể trở thành miệng hút lúc đó tạo nên hiện tượng hút kiểu EJectơ. Để khắc phục, cần giảm tốc độ đoạn đầu, tăng tốc độ đoạn cuối. Vì thế khi lưu lượng dọc theo kênh gió giảm thì phải giảm tiết diện tương ứng để duy trì tốc độ gió, tránh không nên để tốc độ giảm đột ngột .</para>
+        <para id="id19727810">- Đường ống ngắn, ít trở lực cục bộ nhưng có nhiều miệng thổi hoặc đoạn rẻ nhánh. Trường hợp này trở lực p rất nhỏ, nhưng tốc độ giảm nhanh theo lưu lượng. Để khắc phục cần giảm nhanh tiết diện đoạn cuối nhằm khống chế tốc độ phù hợp.</para>
+        <para id="id19727838">c) Trường hợp (21 - 2n)/2 &lt; p hay H1 &gt; Hn</para>
+        <para id="id19727913">Giảm cột áp động nhỏ hơn tổng tổn thất áp lực trên tuyến ống.</para>
+        <para id="id19727920">Trong trường hợp này gió tập trung vào đầu tuyến ống.</para>
+        <para id="id19727927">Nguyên nhân gây ra có thể là:</para>
+        <para id="id19727932">- Tốc độ đoạn đầu nhỏ, áp suất tĩnh lớn nên lưu lượng gió của các miệng thổi đầu lớn và cuối tuyến ống lưu lượng không đáng kể.</para>
+        <para id="id19727947">- Tổn thất đường ống quá lớn : Đường ống quá dài, có nhiều chổ khúc khuỷu.</para>
+        <para id="id19727955">- Tiết diện đường ống được giảm quá nhanh không tương ứng với mức độ giảm lưu lượng nên tốc độ dọc theo tuyến ống giảm ít, không giảm thậm chí còn tăng. Vì thế cột áp tĩnh đầu tuyến ống lớn hơn cuối tuyến ống.</para>
+        <para id="id19727971">Vì vậy khi thiết kế đường ống cần phải chú ý :</para>
+        <para id="id19727980">- Thiết kế giảm dần tiết diện đường ống dọc theo chiều thổi một cách hợp lý , tuỳ thuộc vào trở lực của đường ống.</para>
+        <para id="id19727989">4) Sự phân bố cột áp tĩnh trên đường ống hút.</para>
+        <para id="id19727996"><figure id="id19727999"><media id="id4224186" alt=""><image src="graphics3.wmf" mime-type="image/wmf" height="215" width="420"/></media></figure>Xét một kênh hút, tốc độ trung bình và cột áp tĩnh của dòng không khí tại tiết diện có miệng hút đầu là 1 và H1 , của miệng hút thứ 2 là 2 và H2 ... và của miệng hút thứ n là n và Hn .</para>
+        <para id="id19728102">Trở kháng thủy lực tổng của đường ống là p</para>
+        <para id="id19728115">Hình 6.3 : Phân bố cột áp tĩnh dọc theo kênh hút</para>
+        <para id="id19728121">Theo định luật Becnuli ta có :</para>
+        <para id="id19728127">H1 + 21 /2 = Hn + 2n /2 + p</para>
+        <para id="id19728175">Hay:</para>
+        <para id="id19728179">Hn = H1 + (21 - 2n)/2 - p</para>
+        <para id="id19728234">Hay :</para>
+        <para id="id19728238">H = Hn - H1 = (21 - 2n)/2 - p(6-6)</para>
+        <para id="id19728304">Để H = 0 ta phải đảm bảo : (21 - 2n)/2 - p = 0 </para>
+        <para id="id19728356">Hay nói cách khác tốc độ gió dọc theo chiều chuyển động của dòng không khí phải giảm dần và mức độ giảm phải tương ứng với mức tăng tổn thất p.</para>
+        <para id="id19728375">Do lưu lượng dọc theo chiều chuyển động của gió trong kênh hút tăng dần và tốc độ gió cũng phải giảm dần , vì thế tiết diện kênh hút phải lớn dần.</para>
+      </section>
+      <section id="id-246442976802">
+        <title>Một số vấn đề liên quan tới thiết kế đường ống gió</title>
+        <para id="id19728397">1) Lựa chọn tốc độ không khí trên đường ống</para>
+        <para id="id19728408">Lựa chọn tốc độ gió có liên quan tới nhiều yếu tố.</para>
+        <para id="id19728416">- Khi chọn tốc độ cao đường ống nhỏ, chi phí đầu tư và vận hành thấp, nhưng trở lực hệ thống lớn và độ ồn do khí động của dòng không khí chuyển động cao.</para>
+        <para id="id19728427">- Ngược lại khi tốc độ bé, đường ống lớn chi phí đầu tư và vận hành lớn, khó khăn lắp đặt, nhưng trở lực bé.</para>
+        <para id="id19728436">Tốc độ hợp lý là một bài toán kinh tế, kỹ thuật phức tạp. Bảng 6.3 dưới đây trình bày tốc độ gió thích hợp dùng để tham khảo lựa chọn khi thiết kế.</para>
+        <para id="id19728452">Bảng 6.3 : Tốc độ gió trên kênh gió, m/s</para>
+        <table id="id19728461" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Khu vực</entry>
+                <entry>Độ ồn nhỏ</entry>
+                <entrytbl namest="c3" nameend="c6" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c4">Bình thường</entry>
+                    </row>
+                    <row>
+                      <entry namest="c1" nameend="c2">Ống cấp</entry>
+                      <entry namest="c3" nameend="c4">Ống nhánh</entry>
+                    </row>
+                    <row>
+                      <entry>Ống đi</entry>
+                      <entry>Ống về</entry>
+                      <entry>Ống đi</entry>
+                      <entry>Ống về</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>- Nhà ở</entry>
+                <entry>3</entry>
+                <entry>5</entry>
+                <entry>4</entry>
+                <entry>3</entry>
+                <entry>3</entry>
+              </row>
+              <row>
+                <entry>- Phòng ngủ- Phòng ngủ k.s và bệnh viện</entry>
+                <entry>5</entry>
+                <entry>7,6</entry>
+                <entry>6,6</entry>
+                <entry>6</entry>
+                <entry>5</entry>
+              </row>
+              <row>
+                <entry>- Phòng làm việc- Phòng giám đốc- Thư viện</entry>
+                <entry>6</entry>
+                <entry>10,2</entry>
+                <entry>7,6</entry>
+                <entry>8,1</entry>
+                <entry>6</entry>
+              </row>
+              <row>
+                <entry>- Nhà hát- Giảng đường</entry>
+                <entry>4</entry>
+                <entry>6,6</entry>
+                <entry>5,6</entry>
+                <entry>5</entry>
+                <entry>4</entry>
+              </row>
+              <row>
+                <entry>- Văn phòng chung- Nhà hàng, cửa hàng cao cấp- Ngân hàng</entry>
+                <entry>7,6</entry>
+                <entry>10,2</entry>
+                <entry>7,6</entry>
+                <entry>8,1</entry>
+                <entry>6</entry>
+              </row>
+              <row>
+                <entry>- Cửa hàng bình thường- Cafeteria</entry>
+                <entry>9,1</entry>
+                <entry>10,2</entry>
+                <entry>7,6</entry>
+                <entry>8,1</entry>
+                <entry>6</entry>
+              </row>
+              <row>
+                <entry>- Nhà máy, xí nghiệp, phân x</entry>
+                <entry>12,7</entry>
+                <entry>15,2</entry>
+                <entry>9,1</entry>
+                <entry>11,2</entry>
+                <entry>7,6</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id19729103">2) Xác định đường kính tương đương của đường ống</para>
+        <para id="id19729112">Để vận chuyển không khí người ta sử dụng nhiều loại ống gió: Chữ nhật, vuông, ô van, tròn. Tuy nhiên để tính toán thiết kế đường ống gió thông thường người ta xây dựng các giãn đồ cho các ống dẫn tròn. Vì vậy cần qui đổi tiết diện các loại ra tiết diện tròn tương đương, sao cho tổn thất áp suất cho một đơn vị chiều dài đường ống là tương đương nhau, trong điều kiện lưu lượng gió không thay đổi.</para>
+        <para id="id19729129">Đường kính tương đương có thể xác định theo công thức hoặc tra bảng. Để thuận lợi cho việc tra cứu và lựa chọn , người ta đã lập bảng xác định đường kính tương đương của các đường ống dạng chữ nhật nêu ở bảng 6-4.</para>
+        <para id="id19729145">- Đường kính tương đương của tiết diện chữ nhật được xác định theo công thức sau :</para>
+        <para id="id19729156">(6-7)
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>td</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>1,3</m:mn></m:mrow><m:mtext>.</m:mtext><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mtext>.</m:mtext><m:mi>b</m:mi><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mtext>625</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mtext>25</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac><m:mi>,</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mm</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d rSub { size 8{ ital "td"} } =1,3 "."  {  { \( a "." b \)  rSup { size 8{0,"625"} } }  over  { \( a+b \)  rSup { size 8{0,"25"} } } } , ital "mm"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id19729323">a, b là cạnh chữ nhật, mm</para>
+        <para id="id19729330">Tuy tổn thất giống nhau nhưng tiết diện trên 2 ống không giống nhau </para>
+        <para id="id19729338">S' = a x b &gt; S =  x dtđ2 / 4</para>
+        <para id="id19729358">(6-8)- Đường kính tương đương của ống ô van:</para>
+        <para id="id19729390"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>td</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>1,</m:mn></m:mrow><m:mtext>55</m:mtext><m:mtext>.</m:mtext><m:mfrac><m:msup><m:mi>A</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mtext>625</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup><m:msub><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mtext>25</m:mtext></m:mrow></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d rSub { size 8{ ital "td"} } =1,"55" "."  {  {A rSup { size 8{0,"625"} } }  over  {p rSub { size 8{0,"25"}  } } } } {}</m:annotation></m:semantics></m:math>A - Tiết diện ống ô van : </para>
+        <para id="id19729497">A =  x b2 / 4 + b(a-b)</para>
+        <para id="id19729512">a, b là cạnh dài và cạnh ngắn của ô van, mm</para>
+        <para id="id19729520">p Là chu vi mặt cắt : p = .b + 2(a-b), mm</para>
+        <para id="id19729538">Bảng 6-4 : Đường kính tương đương của ống chữ nhật</para>
+        <table id="id19729545" summary="">
+          <tgroup cols="21">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <colspec colnum="14" colname="c14"/>
+            <colspec colnum="15" colname="c15"/>
+            <colspec colnum="16" colname="c16"/>
+            <colspec colnum="17" colname="c17"/>
+            <colspec colnum="18" colname="c18"/>
+            <colspec colnum="19" colname="c19"/>
+            <colspec colnum="20" colname="c20"/>
+            <colspec colnum="21" colname="c21"/>
+            <tbody>
+              <row>
+                <entry>a</entry>
+                <entry namest="c2" nameend="c21">b, mm</entry>
+              </row>
+              <row>
+                <entry>mm</entry>
+                <entry>100</entry>
+                <entry>125</entry>
+                <entry>150</entry>
+                <entry>175</entry>
+                <entry>200</entry>
+                <entry>225</entry>
+                <entry>250</entry>
+                <entry>275</entry>
+                <entry>300</entry>
+                <entry>350</entry>
+                <entry>400</entry>
+                <entry>450</entry>
+                <entry>500</entry>
+                <entry>550</entry>
+                <entry>600</entry>
+                <entry>650</entry>
+                <entry>700</entry>
+                <entry>750</entry>
+                <entry>800</entry>
+                <entry>900</entry>
+              </row>
+              <row>
+                <entry>10012515017520022525027530035040045050055060065070075080090010001100120013001400150016001700180019002000210022002300240025002600270028002900</entry>
+                <entry>100122133143152151169176183195207217227236245253261268275289301313324334344353362371379387395402410417424430437443450456</entry>
+                <entry>137150161172181190199207222235247258269279289298306314330344358370382394404415425434444453461470478486494501509516523</entry>
+                <entry>164177189200210220229245260274287299310321331341350367384399413426439452463475485496506516525534543552560569577585</entry>
+                <entry>191204216228238248267283299313326339351362373383402420437453468482495508521533544555566577587597606616625634643</entry>
+                <entry>219232244256266286305321337352365378391402414435454473490506522536551564577590602614625636647658668678688697</entry>
+                <entry>246259272283305325343360375390404418430442465486506525543559575591605619633646659671683695706717728738749</entry>
+                <entry>273287299322343363381398414429443457470494517538558577595612629644660674688702715728740753764776787798</entry>
+                <entry>301314339361382401419436452467482496522546569590610629648665682698713728743757771784797810822834845</entry>
+                <entry>328354378400420439457474490506520548574598620642662681700718735751767782797812826840853866879891</entry>
+                <entry>383409433455477496515533550567597626652677701724745766785804823840857874890905920935950964977</entry>
+                <entry>4374644885115335535735926096436747037317577818058278498698899089279459639809961012102810431058</entry>
+                <entry>49251854356758961063064968671975178080883886088590893095297399310131031105010681085110211191135</entry>
+                <entry>54757359862264466668772676279582785788691393996498810121034105510761097111611361154117311901208</entry>
+                <entry>6016286536777007227638028388729049349639911018104310681092111511371159118012001220124012591277</entry>
+                <entry>656683708732755799840878914948980101110411069109611221147117211951218124112621283130413241344</entry>
+                <entry>7117377637878338769169549901024105710881118114611741200122612511275129913221344136613871408</entry>
+                <entry>76579281886691195399310311066110011331164119512241252127913051330135513791402142514471469</entry>
+                <entry>820847897944988103010691107114311771209124112711301132913561383140914341459148315061529</entry>
+                <entry>8759279761022106611071146118312191253128613181348137814061434146114881513153815621586</entry>
+                <entry>98410371086113311771220126012981335137114051438147015011532156115891617164416701696</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>100</entry>
+                <entry>125</entry>
+                <entry>150</entry>
+                <entry>175</entry>
+                <entry>200</entry>
+                <entry>225</entry>
+                <entry>250</entry>
+                <entry>275</entry>
+                <entry>300</entry>
+                <entry>350</entry>
+                <entry>400</entry>
+                <entry>450</entry>
+                <entry>500</entry>
+                <entry>550</entry>
+                <entry>600</entry>
+                <entry>650</entry>
+                <entry>700</entry>
+                <entry>750</entry>
+                <entry>800</entry>
+                <entry>900</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20268395">Tiếp bảng (6-4)</para>
+        <table id="id20268403" summary="">
+          <tgroup cols="21">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <colspec colnum="14" colname="c14"/>
+            <colspec colnum="15" colname="c15"/>
+            <colspec colnum="16" colname="c16"/>
+            <colspec colnum="17" colname="c17"/>
+            <colspec colnum="18" colname="c18"/>
+            <colspec colnum="19" colname="c19"/>
+            <colspec colnum="20" colname="c20"/>
+            <colspec colnum="21" colname="c21"/>
+            <tbody>
+              <row>
+                <entry>amm</entry>
+                <entrytbl namest="c2" nameend="c21" cols="20">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <colspec colnum="10" colname="c10"/>
+                  <colspec colnum="11" colname="c11"/>
+                  <colspec colnum="12" colname="c12"/>
+                  <colspec colnum="13" colname="c13"/>
+                  <colspec colnum="14" colname="c14"/>
+                  <colspec colnum="15" colname="c15"/>
+                  <colspec colnum="16" colname="c16"/>
+                  <colspec colnum="17" colname="c17"/>
+                  <colspec colnum="18" colname="c18"/>
+                  <colspec colnum="19" colname="c19"/>
+                  <colspec colnum="20" colname="c20"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c20">b, mm</entry>
+                    </row>
+                    <row>
+                      <entry>1000</entry>
+                      <entry>1100</entry>
+                      <entry>1200</entry>
+                      <entry>1300</entry>
+                      <entry>1400</entry>
+                      <entry>1500</entry>
+                      <entry>1600</entry>
+                      <entry>1700</entry>
+                      <entry>1800</entry>
+                      <entry>1900</entry>
+                      <entry>2000</entry>
+                      <entry>2100</entry>
+                      <entry>2200</entry>
+                      <entry>2300</entry>
+                      <entry>2400</entry>
+                      <entry>2500</entry>
+                      <entry>2600</entry>
+                      <entry>2700</entry>
+                      <entry>2800</entry>
+                      <entry>2900</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>10001100120013001400150016001700180019002000210022002300240025002600270028002900</entry>
+                <entry>10931146119612441289133213731413145114881523155815911623165516851715174417721800</entry>
+                <entry>12021`25613061354140014441486152715661604164016761710174417761808183918691898</entry>
+                <entry>131213651416146415111555159816401680171917561793182818621896192919611992</entry>
+                <entry>14211475152615741621166717101753197318331871190919451980201520482081</entry>
+                <entry>1530158416351684173217781822186519061947198620242061209721332167</entry>
+                <entry>164016931745179418421889193319772019206021002139217722142250</entry>
+                <entry>17491803185419041952199920442088213121732213225322922329</entry>
+                <entry>1858191219642014206321102155220022432285232723672406</entry>
+                <entry>196820212073212421732220226623112355239824392480</entry>
+                <entry>20772131218322332283233023772422246625102552</entry>
+                <entry>2186224022922343239324412487253325782621</entry>
+                <entry>229623502402245325022551259826442689</entry>
+                <entry>24052459241125622612266127082755</entry>
+                <entry>2514256826212672272227712819</entry>
+                <entry>262426782730278228322881</entry>
+                <entry>27332787284028912941</entry>
+                <entry>2842289629493001</entry>
+                <entry>295230063058</entry>
+                <entry>30613115</entry>
+                <entry>3170</entry>
+              </row>
+              <row>
+                <entry>a, mm</entry>
+                <entry>1000</entry>
+                <entry>1100</entry>
+                <entry>1200</entry>
+                <entry>1300</entry>
+                <entry>1400</entry>
+                <entry>1500</entry>
+                <entry>1600</entry>
+                <entry>1700</entry>
+                <entry>1800</entry>
+                <entry>1900</entry>
+                <entry>2000</entry>
+                <entry>2100</entry>
+                <entry>2200</entry>
+                <entry>2300</entry>
+                <entry>2400</entry>
+                <entry>2500</entry>
+                <entry>2600</entry>
+                <entry>2700</entry>
+                <entry>2800</entry>
+                <entry>2900</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20270067">3) Tổn thất áp suất trên đường ống gió</para>
+        <para id="id20270081">Có 2 dạng tổn thất áp lực:</para>
+        <para id="id20270088">- Tổn thất ma sát dọc theo đường ống pms</para>
+        <para id="id20270105">- Tổn thất cục bộ ở các chi tiết đặc biệt : Côn, cút, tê, van ...</para>
+        <para id="id20270113">(6-9)a. Tổn thất ma sát</para>
+        <para id="id20270142">Tổn thất ma sát được xác định theo công thức :</para>
+        <para id="id20270148"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi fontstyle="italic">Δp</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ms</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mi>λ</m:mi></m:mrow><m:mtext>.</m:mtext><m:mfrac><m:mi>l</m:mi><m:mi>d</m:mi></m:mfrac><m:mtext>.</m:mtext><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ρω</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mn>2</m:mn></m:mfrac><m:mi>,</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>mmH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δp rSub { size 8{ ital "ms"} } =λ "."  {  {l}  over  {d} }  "."  {  { ital "ρω" rSup { size 8{2} } }  over  {2} } , ital "mmH" rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math> - Hệ số trở lực ma sát</para>
+        <para id="id20270276">l - chiều dài ống, m</para>
+        <para id="id20270282">d - đường kính hoặc đường kính tương đương của ống, m</para>
+        <para id="id20270290"> - Khối lượng riêng của không khí, kg/m3</para>
+        <para id="id20270306"> - Tốc độ không khí chuyển động trong ống , m/s</para>
+        <para id="id20270317">Hệ số trở lực ma sát có thể tính như sau :</para>
+        <para id="id20270326">(6-10)
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>λ</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>0,</m:mn><m:mtext>3164</m:mtext></m:mrow><m:mroot><m:mtext>Re</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mroot></m:mfrac></m:mrow><m:mi>,</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:mtext>khi</m:mtext></m:mrow></m:mstyle><m:mrow><m:mtext>Re</m:mtext><m:mo stretchy="false">&lt;</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{λ= {  {0,"3164"}  over  { nroot { size 8{4} }  {"Re"} } } , ital "khi""Re"&lt;"10" rSup { size 8{5} } } {}</m:annotation></m:semantics></m:math>* Đối với ống nhôm hoặc tôn mỏng bề mặt bên trong láng và tiết diện tròn</para>
+        <para id="id20270454"> = 0,0032 + 0,221.Re-0,237, khi Re &gt; 105 (6-11)</para>
+        <para id="id20270473">trong đó:</para>
+        <para id="id20270478">Re là tiêu chuẩn Reynolds : Re = d/</para>
+        <para id="id20270496"> - Độ nhớt động học của không khí , m2/s</para>
+        <para id="id20270511"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>λ</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mo stretchy="false">[</m:mo><m:mn>1,</m:mn><m:mtext>81</m:mtext><m:mtext>.</m:mtext><m:mtext>log</m:mtext><m:mfrac><m:mtext>Re</m:mtext><m:mrow><m:mtext>Re</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mrow><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">/</m:mo><m:mi>d</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mfrac><m:msup><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{λ= {  {1}  over  { \[ 1,"81" "." "log" {  {"Re"}  over  {"Re" "." k rSub { size 8{1} } /d+7} }  \]  rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>(6-12)* Đối với bề mặt nhám</para>
+        <para id="id20270661">k1 là hệ số mức độ gồ ghề trung bình, m</para>
+        <para id="id20270672">Bảng 6-5</para>
+        <table id="id20270680" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Loại ống</entry>
+                <entry>k1.103, mm</entry>
+              </row>
+              <row>
+                <entry>Kéo liềnMới sạchKhông bị rỉTráng kẽm, mới</entry>
+                <entry>0  0,23  106  2010  30</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20270799"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>λ</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>0,</m:mn><m:mtext>323</m:mtext></m:mrow><m:mrow><m:msup><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mtext>07</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup><m:mtext>.</m:mtext><m:msup><m:mtext>Re</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mtext>25</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{λ= {  {0,"323"}  over  {d rSup { size 8{0,"07"} }  "." "Re" rSup { size 8{0,"25"} } } } } {}</m:annotation></m:semantics></m:math>* Đối với ống bằng nhựa tổng hợp</para>
+        <para id="id20270893">(6-13)- Đối với polyetylen</para>
+        <para id="id20270944">(6-14)- Đối với vinylpast
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>λ</m:mi><m:mo stretchy="false">=</m:mo><m:msup><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mtext>01</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mfrac><m:mrow><m:mn>0,</m:mn><m:mtext>39</m:mtext></m:mrow><m:mrow><m:mtext>.</m:mtext><m:msup><m:mtext>Re</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mtext>25</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{λ=d rSup { size 8{0,"01"} }  {  {0,"39"}  over  { "." "Re" rSup { size 8{0,"25"} } } } } {}</m:annotation></m:semantics></m:math>Việc tính toán theo các công thức tương đối phức tạp, nên người ta đã xây dựng đồ thị để xác tổn thất ma sát, cụ thể như sau:</para>
+        <para id="id20271091">Từ công thức (6-9) ta có thể viết lại như sau :</para>
+        <para id="id20271097">pms = l . p1 (6-15)</para>
+        <para id="id20271134">l - Chiều dài đường ống, m</para>
+        <para id="id20271139">p1 - Tổn thất áp lực trên 1m chiều dài đường ống, Pa/m</para>
+        <para id="id20271155">Người ta đã xây dựng đồ thị nhằm xác định p1 trên hình 6.4. Theo đồ thị này khi biết 2 trong các thông số sau : lưu lượng gió V (lít/s), tốc độ không khí  (m/s) trong đường ống, đường kính tương đương dtđ (mm) là xác định được tổn thất trên 1m chiều dài đường ống. Phương pháp xác định theo đồ thị rất thuận lợi và nhanh chóng.</para>
+        <para id="id20271200">Hình 6-4 : Đồ thị xác định tổn thất ma sát</para>
+        <para id="id20271206">b. Tổn thất cục bộ</para>
+        <para id="id20271212">Tổn thất áp lực cục bộ được xác định theo công thức:</para>
+        <para id="id20271218">pcb = .2/2(6-16)</para>
+        <para id="id20271257">Trị số  trở lực cục bộ phụ thuộc hình dạng, kích thước và tốc độ gió qua chi tiết.</para>
+        <para id="id20271273">Nếu tốc độ trên toàn bộ ống đều thì có thể xác đinh </para>
+        <para id="id20271280">pcb = 2/2 x .(6-17)</para>
+        <para id="id20271317">Có 2 cách xác định tổn thất cục bộ :</para>
+        <para id="id20271323">- Xác định tổn thất cục bộ theo công thức (6-16), trong đó hệ số  được xác định cho từng kiểu chi tiết riêng biệt: Cút, côn, Tê, Chạc ...vv</para>
+        <para id="id20271345">pcb = .2/2 , N/m2</para>
+        <para id="id20271379">- Qui đổi ra độ dài ống thẳng tương đương và xác định theo công thức tổn thất ma sát:</para>
+        <para id="id20271389">ltđ = .dtđ / </para>
+        <para id="id20271414">pc = ltđ . p1(6-18)</para>
+        <para id="id20271453">Dưới đây chúng tôi lần lượt giới thiệu cách tính tổn thất cục bộ theo 2 cách nói trên.</para>
+        <para id="id20271461">c. Xác định hệ tổn thất cục bộ theo hệ số  </para>
+        <para id="id20271482">pcb = .2/2 , N/m2</para>
+        <para id="id20271515">pcb - Tổn thất trở lực cục bộ , N/m2</para>
+        <para id="id20271535"> - Hệ số trở lực cục bộ.</para>
+        <para id="id20271545"> - Khối lượng riêng của không khí. Lấy  = 1,2 kg/m3</para>
+        <para id="id20271565"> - Tốc độ gió đi qua chi tiết nghiên cứu , m/s</para>
+        <para id="id20271577">c.1 Cút tiết diện tròn</para>
+        <figure id="id20271592">
+          <media id="id8100198" alt=""><image src="../../media/graphics4-7c53.png" mime-type="image/png" height="175" width="477"/></media>
+        </figure>
+        <para id="id20271616">Cút tiết diện tròn có các dạng chủ yếu sau:</para>
+        <para id="id20271622">- Cút 90o tiết diện tròn, cong đều</para>
+        <para id="id20271634">- Cút 90o tiết diện tròn, ghép từ 35 đoạn</para>
+        <para id="id20271654">- Cút 90o nối thẳng góc</para>
+        <para id="id20271666">- Cút tiết diện tròn o cong đều hoặc ghép.</para>
+        <para id="id20271685">c.1.1- Cút 90o, tiết diện tròn, cong đều .</para>
+        <para id="id20271705">Hệ số trở lực cục bộ  được tra theo tỷ số R/d ở bảng 6.6 dưới đây:</para>
+        <para id="id20271718">R - Bán kính cong tâm cút ống, m</para>
+        <para id="id20271723">d - Đường kính trong của ống, m</para>
+        <para id="id20271731">Bảng 6.6 : Hệ số </para>
+        <table id="id20271744" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>R/d</entry>
+                <entry>0,5</entry>
+                <entry>0,75</entry>
+                <entry>1,0</entry>
+                <entry>1,5</entry>
+                <entry>2,0</entry>
+                <entry>2,5</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>0,71</entry>
+                <entry>0,33</entry>
+                <entry>0,22</entry>
+                <entry>0,15</entry>
+                <entry>0,13</entry>
+                <entry>0,12</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20271918">Đối với cút khác 90o cần nhân hệ số hiệu chỉnh K cho ở bảng 6.7 dưới đây:</para>
+        <para id="id20271933">Bảng 6.7 : Hệ số xét tới ảnh hưởng của góc cút</para>
+        <table id="id20271943" summary="">
+          <tgroup cols="12">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <tbody>
+              <row>
+                <entry></entry>
+                <entry>0o</entry>
+                <entry>20o</entry>
+                <entry>30o</entry>
+                <entry>45o</entry>
+                <entry>60o</entry>
+                <entry>75o</entry>
+                <entry>90o</entry>
+                <entry>110o</entry>
+                <entry>130o</entry>
+                <entry>150o</entry>
+                <entry>180o</entry>
+              </row>
+              <row>
+                <entry>K</entry>
+                <entry>0</entry>
+                <entry>0,31</entry>
+                <entry>0,45</entry>
+                <entry>0,60</entry>
+                <entry>0,78</entry>
+                <entry>0,90</entry>
+                <entry>1,00</entry>
+                <entry>1,13</entry>
+                <entry>1,2</entry>
+                <entry>1,28</entry>
+                <entry>1,4</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20272263">c.1.2. Cút 90o, tiết diện tròn, ghép từ 3-5 đoạn</para>
+        <para id="id20272281">Bảng 6.8 : Hệ số </para>
+        <table id="id20272293" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Số đoạn</entry>
+                <entrytbl namest="c2" nameend="c6" cols="5">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c5">Tỷ số R/d</entry>
+                    </row>
+                    <row>
+                      <entry>0,5</entry>
+                      <entry>0,75</entry>
+                      <entry>1,0</entry>
+                      <entry>1,5</entry>
+                      <entry>2,0</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>-</entry>
+                <entry>0,46</entry>
+                <entry>0,33</entry>
+                <entry>0,24</entry>
+                <entry>0,19</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>-</entry>
+                <entry>0,50</entry>
+                <entry>0,37</entry>
+                <entry>0,27</entry>
+                <entry>0,24</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>0,98</entry>
+                <entry>0,54</entry>
+                <entry>0,42</entry>
+                <entry>0,34</entry>
+                <entry>0,33</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20272611">R - Bán kính cong tâm cút ống, m</para>
+        <para id="id20272616">d - Đường kính trong của ống, m</para>
+        <para id="id20272624">c.1.3 Cút tiết diện tròn, ghép thẳng góc</para>
+        <para id="id20272632">Bảng 6.9 : Hệ số </para>
+        <table id="id20272645" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Góc </entry>
+                <entry>20o</entry>
+                <entry>30o</entry>
+                <entry>45o</entry>
+                <entry>60o</entry>
+                <entry>75o</entry>
+                <entry>90o</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>0,08</entry>
+                <entry>0,16</entry>
+                <entry>0,34</entry>
+                <entry>0,55</entry>
+                <entry>0,81</entry>
+                <entry>1,2</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20272865">- Góc của cút</para>
+        <para id="id20272874">c.2 Cút tiết diện chữ nhật</para>
+        <figure id="id20272890">
+          <media id="id6538763" alt=""><image src="../../media/graphics5-0d6b.png" mime-type="image/png" height="233" width="304"/></media>
+        </figure>
+        <para id="id20272914">Trên hình 6-6 là các dạng cút tiết diện chữ nhật có thể có.</para>
+        <para id="id20272922">- Trường hợp 1 : Cút 90o, tiết diện chữ nhật, cong đều. Yêu cầu kỹ thuật là bán kính trong R1 tuỳ chọn, nhưng không nên quá bé. Tối ưu là R1= 0,75W , R2=1,75W và R = 1,25W</para>
+        <para id="id20272971">- Trường hợp 2 : Cút 90o, thẳng góc và không có cánh hướng. Loại này ít dùng trên thực tế.</para>
+        <para id="id20272998">- Trường hợp 3 : Cút 90o, thẳng góc và có các tấm hướng dòng cánh đơn với bước cánh là S, đoạn thẳng của cánh là L</para>
+        <para id="id20273034">- Trường hợp 4 : Cút 90o, thẳng góc và có các cánh hướng dạng khí động, bước cánh S, bán kính cong của cánh là R.</para>
+        <para id="id20273065">c.2.1 Cút 90o, tiết diện hình chữ nhật , cong đều </para>
+        <para id="id20273088">R - Bán kính cong tâm cút ống, mm</para>
+        <para id="id20273095">H - Chiều cao của cút (khi đặt nằm), mm</para>
+        <para id="id20273103">W - Chiều rộng của cút : W = R2 - R1 </para>
+        <para id="id20273126">R1, R2 - Bán kính trong và ngoài của cút, mm</para>
+        <para id="id20273144">Bảng 6.10 : Hệ số </para>
+        <table id="id20273158" summary="">
+          <tgroup cols="12">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <tbody>
+              <row>
+                <entry>R/W</entry>
+                <entrytbl namest="c2" nameend="c12" cols="11">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <colspec colnum="10" colname="c10"/>
+                  <colspec colnum="11" colname="c11"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c11">H/W</entry>
+                    </row>
+                    <row>
+                      <entry>0,25</entry>
+                      <entry>0,5</entry>
+                      <entry>0,75</entry>
+                      <entry>1,0</entry>
+                      <entry>1,5</entry>
+                      <entry>2,0</entry>
+                      <entry>3,0</entry>
+                      <entry>4,0</entry>
+                      <entry>5,0</entry>
+                      <entry>6,0</entry>
+                      <entry>8,0</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,50,751,01,52,0</entry>
+                <entry>1,50,570,270,220,20</entry>
+                <entry>1,40,520,250,200,18</entry>
+                <entry>1,30,480,230,190,16</entry>
+                <entry>1,20,440,210,170,15</entry>
+                <entry>1,10,400,190,150,14</entry>
+                <entry>1,00,390,180,140,13</entry>
+                <entry>1,00,390,180,140,13</entry>
+                <entry>1,10,400,190,150,14</entry>
+                <entry>1,10,420,200,160,14</entry>
+                <entry>1,20,430,270,170,15</entry>
+                <entry>1,20,440,210,170,15</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20273719">Tỷ số tối ưu trong trường hợp này là R/W = 1,25</para>
+        <para id="id20273725">c.2.2 Cút 90o, tiết diện chữ nhật, thẳng góc, không có cánh hướng</para>
+        <para id="id20273744">Bảng 6.11 : Hệ số </para>
+        <table id="id20273756" summary="">
+          <tgroup cols="12">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <tbody>
+              <row>
+                <entry></entry>
+                <entrytbl namest="c2" nameend="c12" cols="11">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <colspec colnum="10" colname="c10"/>
+                  <colspec colnum="11" colname="c11"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c11">H/W</entry>
+                    </row>
+                    <row>
+                      <entry>0,25</entry>
+                      <entry>0,5</entry>
+                      <entry>0,75</entry>
+                      <entry>1,00</entry>
+                      <entry>1,5</entry>
+                      <entry>2,0</entry>
+                      <entry>3,0</entry>
+                      <entry>4,0</entry>
+                      <entry>5,0</entry>
+                      <entry>6,0</entry>
+                      <entry>8,0</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>20o30o45o60o75o90o</entry>
+                <entry>0,080,180,380,600,891,3</entry>
+                <entry>0,080,170,370,590,871,3</entry>
+                <entry>0,080,170,360,570,841,2</entry>
+                <entry>0,070,160,340,550,811,2</entry>
+                <entry>0,070,150,330,520,771,1</entry>
+                <entry>0,070,150,310,490,731,1</entry>
+                <entry>0,060,130,280,460,670,98</entry>
+                <entry>0,060,130,270,430,630,92</entry>
+                <entry>0,050,120,260,410,610,89</entry>
+                <entry>0,050,120,250,390,580,85</entry>
+                <entry>0,050,110,240,380,570,83</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20274430">c.2.3 Cút 90o, tiết diện chữ nhật , thẳng góc, có cánh hướng đơn</para>
+        <para id="id20274449">Bảng 6.12 : Hệ số </para>
+        <table id="id20274461" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>No</entry>
+                <entrytbl namest="c2" nameend="c4" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">Kích thước, mm</entry>
+                    </row>
+                    <row>
+                      <entry>R</entry>
+                      <entry>S</entry>
+                      <entry>L</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>Hệ số </entry>
+              </row>
+              <row>
+                <entry>1*23</entry>
+                <entry>50115115</entry>
+                <entry>385783</entry>
+                <entry>19041</entry>
+                <entry>0,120,150,18</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20274674">trong đó :</para>
+        <para id="id20274679">R - Bán kính cong của cánh hướng, mm</para>
+        <para id="id20274686">S- Bước cánh hướng, mm</para>
+        <para id="id20274692">L- Độ dài phần thẳng của cánh hướng, mm</para>
+        <para id="id20274699">* Số liệu để tham khảo</para>
+        <para id="id20274705">c.2.4 Cút 90o, tiết diện chữ nhật, thẳng góc, có cánh hướng đôi (dạng khí động)</para>
+        <para id="id20274727">Bảng 6.13 : Hệ số </para>
+        <table id="id20274739" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>TT</entry>
+                <entrytbl namest="c2" nameend="c7" cols="6">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c2">Kích thước, mm</entry>
+                      <entry namest="c3" nameend="c6">Tốc độ không khí, m/s</entry>
+                    </row>
+                    <row>
+                      <entry>R</entry>
+                      <entry>S</entry>
+                      <entry>5</entry>
+                      <entry>10</entry>
+                      <entry>15</entry>
+                      <entry>20</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>50</entry>
+                <entry>38</entry>
+                <entry>0,27</entry>
+                <entry>0,22</entry>
+                <entry>0,19</entry>
+                <entry>0,17</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>50</entry>
+                <entry>38</entry>
+                <entry>0,33</entry>
+                <entry>0,29</entry>
+                <entry>0,26</entry>
+                <entry>0,23</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>50</entry>
+                <entry>54</entry>
+                <entry>0,38</entry>
+                <entry>0,31</entry>
+                <entry>0,27</entry>
+                <entry>0,24</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>115</entry>
+                <entry>83</entry>
+                <entry>0,26</entry>
+                <entry>0,21</entry>
+                <entry>0,18</entry>
+                <entry>0,16</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20275194">trong đó:</para>
+        <para id="id20275199">R- Bán kính cong của cánh hướng, mm</para>
+        <para id="id20275206">S - Bước cánh, mm</para>
+        <para id="id20275212">c.3. Côn mở và đột mở</para>
+        <para id="id20275227">Côn mở hay đột mở là chi tiết nơi tiết diện tăng dần từ từ hay đột ngột</para>
+        <para id="id20275236">Trong trường hợp này tốc độ tính theo tiết diện đầu vào</para>
+        <para id="id20275244">A1- Diện tích tiết diện đầu vào, m2</para>
+        <para id="id20275260">A2- Diện tích tiết diện đầu ra, m2</para>
+        <para id="id20275276">Đối với côn mở và đột mở ta có các trường hợp phổ biến sau :</para>
+        <para id="id20275283">- Côn hoặc đột mở tiết diện tròn</para>
+        <para id="id20275289">- Côn hoặc đột mở tiết diện chữ nhật</para>
+        <figure id="id20275300">
+          <media id="id1172498968540" alt=""><image src="../../media/graphics6-df65.png" mime-type="image/png" height="230" width="444"/></media>
+        </figure>
+        <para id="id20275323">c.3.1 Côn tiết diện tròn hoặc đột mở tròn (khi  =180o)</para>
+        <para id="id20275348">Bảng 6.14 : Hệ số </para>
+        <table id="id20275361" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>Re</entry>
+                <entry>A2/A1</entry>
+                <entrytbl namest="c3" nameend="c10" cols="8">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c8"></entry>
+                    </row>
+                    <row>
+                      <entry>16o</entry>
+                      <entry>20o</entry>
+                      <entry>30o</entry>
+                      <entry>45o</entry>
+                      <entry>60o</entry>
+                      <entry>90o</entry>
+                      <entry>120o</entry>
+                      <entry>180o</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,5.105</entry>
+                <entry>24610&gt;16</entry>
+                <entry>0,140,230,270,290,31</entry>
+                <entry>0,190,300,330,380,38</entry>
+                <entry>0,320,460,480,590,60</entry>
+                <entry>0,330,610,660,760,84</entry>
+                <entry>0,330,680,770,800,88</entry>
+                <entry>0,320,640,740,830,88</entry>
+                <entry>0,310,630,730,840,88</entry>
+                <entry>0,300,620,720,830,88</entry>
+              </row>
+              <row>
+                <entry>2.105</entry>
+                <entry>24610&gt;16</entry>
+                <entry>0,070,150,190,200,21</entry>
+                <entry>0,120,180,280,240,28</entry>
+                <entry>0,230,360,440,430,52</entry>
+                <entry>0,280,550,900,760,76</entry>
+                <entry>0,270,590,700,800,87</entry>
+                <entry>0,270,590,710,810,87</entry>
+                <entry>0,270,580,710,810,87</entry>
+                <entry>0,260,570,690,810,87</entry>
+              </row>
+              <row>
+                <entry>6.105</entry>
+                <entry>24610&gt;16</entry>
+                <entry>0,050,170,160,210,21</entry>
+                <entry>0,070,240,290,330,34</entry>
+                <entry>0,120,380,460,520,56</entry>
+                <entry>0,270,510,600,600,72</entry>
+                <entry>0,270,560,690,760,79</entry>
+                <entry>0,270,580,710,830,85</entry>
+                <entry>0,270,580,700,840,87</entry>
+                <entry>0,270,570,700,830,89</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20276467">trong đó:</para>
+        <para id="id20276472">A1 - Tiết diện đầu vào côn, mm2</para>
+        <para id="id20276486">A2- Tiết diện đầu ra, mm2</para>
+        <para id="id20276501">Re = 66,34.D.</para>
+        <para id="id20276510">D - Đường kính ống nhỏ (đầu vào), mm</para>
+        <para id="id20276516">- Tốc độ không khí trong ống nhỏ (đầu vào), m/s</para>
+        <para id="id20276529"> - Góc côn, đối với đột mở  = 180o</para>
+        <para id="id20276550">c.3.2 Côn tiết diện chữ nhật hoặc đột mở (khi  =180o) </para>
+        <para id="id20276576">Bảng 6.15 : Hệ số </para>
+        <table id="id20276588" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>A2/A1</entry>
+                <entrytbl namest="c2" nameend="c9" cols="8">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c8"></entry>
+                    </row>
+                    <row>
+                      <entry>16o</entry>
+                      <entry>20o</entry>
+                      <entry>30o</entry>
+                      <entry>45o</entry>
+                      <entry>60o</entry>
+                      <entry>90o</entry>
+                      <entry>120o</entry>
+                      <entry>180o</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>246&gt;10</entry>
+                <entry>0,180,360,420,42</entry>
+                <entry>0,220,430,470,49</entry>
+                <entry>0,250,500,580,59</entry>
+                <entry>0,290,560,680,70</entry>
+                <entry>0,310,610,720,80</entry>
+                <entry>0,320,630,760,87</entry>
+                <entry>0,330,630,760,85</entry>
+                <entry>0,300,630,750,86</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20277044">A1 - Tiết diện đầu vào côn, mm2</para>
+        <para id="id20277059">A2- Tiết diện đầu ra, mm2</para>
+        <para id="id20277073"> - Góc côn, đối với đột mở  = 180o</para>
+        <para id="id20277094">c.4. Côn thu và đột thu</para>
+        <para id="id20277107">- Côn thu là nơi tiết diện giảm theo chiều chuyển động của không khí. Côn thu có 2 loại : loại tiết diện thay đổi từ từ và loại tiết diện thay đổi đột ngột (đột thu). Tiết diện côn có thể là loại tròn hay chữ nhật.</para>
+        <para id="id20277122">- Khi tính toán trở lực tính theo tiết diện và tốc độ đầu vào</para>
+        <figure id="id20277133">
+          <media id="id1172499102569" alt=""><image src="../../media/graphics7-9cbf.png" mime-type="image/png" height="230" width="463"/></media>
+        </figure>
+        <para id="id20277157">A1 - Tiết diện đầu vào của côn, mm2</para>
+        <para id="id20277172">A2- Tiết diện đầu ra của côn (A2 &gt; A1) , mm2</para>
+        <para id="id20277198"> - Góc côn, o</para>
+        <para id="id20277212">Bảng 6.16 : Hệ số </para>
+        <table id="id20277224" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>A2/A1</entry>
+                <entrytbl namest="c2" nameend="c8" cols="7">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c7"></entry>
+                    </row>
+                    <row>
+                      <entry>10o</entry>
+                      <entry>15o-40o</entry>
+                      <entry>50o-60o</entry>
+                      <entry>90o</entry>
+                      <entry>120o</entry>
+                      <entry>150o</entry>
+                      <entry>180o</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>24610</entry>
+                <entry>0,050,050,050,05</entry>
+                <entry>0,050,040,040,05</entry>
+                <entry>0,060,070,070,08</entry>
+                <entry>0,120,170,180,19</entry>
+                <entry>0,180,270,280,29</entry>
+                <entry>0,240,350,360,37</entry>
+                <entry>0,260,410,420,43</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20289878">c.5 Đoạn ống hội tụ</para>
+        <para id="id20289891">Đoạn ống hội tụ là đoạn ống góp từ 2 dòng không khí trở lên. Thông thường ta gặp các đoạn ống hội tụ trong các ống hút về, ống thải. Trên hình 6-9 là các trường hợp thường gặp. </para>
+        <para id="id20289901">Để tính toán trong trường hợp này , tốc độ được chọn là tốc độ đoạn ống ra</para>
+        <figure id="id20289911">
+          <media id="id1172492049908" alt=""><image src="../../media/graphics8-4061.png" mime-type="image/png" height="310" width="476"/></media>
+        </figure>
+        <para id="id20289935">c.5.1 Tê hội tụ: Ống nhánh tròn nối với ống chính chữ nhật</para>
+        <para id="id20289944">Bảng 6.17 : Hệ số , tính cho ống nhánh</para>
+        <table id="id20289962" summary="">
+          <tgroup cols="11">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <tbody>
+              <row>
+                <entry>m/s</entry>
+                <entrytbl namest="c2" nameend="c11" cols="10">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <colspec colnum="10" colname="c10"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c10">Lb/Lc</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                      <entry>1,0</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>&lt; 6</entry>
+                <entry>-0,63</entry>
+                <entry>-0,55</entry>
+                <entry>0,13</entry>
+                <entry>9,23</entry>
+                <entry>0,78</entry>
+                <entry>1,30</entry>
+                <entry>1,93</entry>
+                <entry>3,10</entry>
+                <entry>4,88</entry>
+                <entry>5,60</entry>
+              </row>
+              <row>
+                <entry>&gt; 6</entry>
+                <entry>-0,49</entry>
+                <entry>-0,21</entry>
+                <entry>0,23</entry>
+                <entry>0,60</entry>
+                <entry>1,27</entry>
+                <entry>2,06</entry>
+                <entry>2,75</entry>
+                <entry>3,70</entry>
+                <entry>4,93</entry>
+                <entry>5,95</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20290439">Lb - Lưu lượng gió ở nhánh, m3/s</para>
+        <para id="id20290455">Lc- Lưu lượng gió tổng (sau khi hội tụ), m3/s</para>
+        <para id="id20290471"> - Tốc độ không khí đầu ra (sau khi hội tụ), m/s</para>
+        <para id="id20290485">* Các giá trị âm chứng tỏ một phần áp suất động biến thành áp suất tĩnh và vượt quá tổn thất</para>
+        <para id="id20290496">c.5.2 Ống nhánh chữ nhật nối với ống chính chữ nhật</para>
+        <para id="id20290504">Bảng 6.18 : Hệ số , tính cho ống nhánh</para>
+        <table id="id20290521" summary="">
+          <tgroup cols="11">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <tbody>
+              <row>
+                <entry>m/s</entry>
+                <entrytbl namest="c2" nameend="c11" cols="10">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <colspec colnum="10" colname="c10"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c10">Ln/L</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                      <entry>1,0</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>&lt; 6</entry>
+                <entry>-0,75</entry>
+                <entry>-0,53</entry>
+                <entry>-0,03</entry>
+                <entry>0,33</entry>
+                <entry>1,03</entry>
+                <entry>1,10</entry>
+                <entry>2,15</entry>
+                <entry>2,93</entry>
+                <entry>4,18</entry>
+                <entry>4,78</entry>
+              </row>
+              <row>
+                <entry>&gt; 6</entry>
+                <entry>-0,69</entry>
+                <entry>-0,21</entry>
+                <entry>0,23</entry>
+                <entry>0,67</entry>
+                <entry>1,17</entry>
+                <entry>1,66</entry>
+                <entry>2,67</entry>
+                <entry>3,36</entry>
+                <entry>3,93</entry>
+                <entry>5,13</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20290998">c.5.3 Tê hội tụ : Ống nhánh hướng góc 45o với ống chính chữ nhật </para>
+        <para id="id20291016">Bảng 6.19 : Hệ số  , tính cho ống nhánh</para>
+        <table id="id20291034" summary="">
+          <tgroup cols="11">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <tbody>
+              <row>
+                <entry>m/s</entry>
+                <entrytbl namest="c2" nameend="c11" cols="10">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <colspec colnum="10" colname="c10"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c10">Ln/L</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                      <entry>1,0</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>&lt; 6</entry>
+                <entry>-0,83</entry>
+                <entry>-0,68</entry>
+                <entry>-0,30</entry>
+                <entry>0,28</entry>
+                <entry>0,55</entry>
+                <entry>1,03</entry>
+                <entry>1,50</entry>
+                <entry>1,93</entry>
+                <entry>2,50</entry>
+                <entry>3,03</entry>
+              </row>
+              <row>
+                <entry>&gt; 6</entry>
+                <entry>-0,72</entry>
+                <entry>-0,52</entry>
+                <entry>-0,23</entry>
+                <entry>0,34</entry>
+                <entry>0,76</entry>
+                <entry>1,14</entry>
+                <entry>1,83</entry>
+                <entry>2,01</entry>
+                <entry>2,90</entry>
+                <entry>3,63</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20291509">c.5.4 Tê hội tụ : Dạng chữ Y , tiết diện chữ nhật.</para>
+        <para id="id20291518">Bảng 6.20.a : Hệ số bc , tính cho ống nhánh</para>
+        <table id="id20291540" summary="">
+          <tgroup cols="11">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <tbody>
+              <row>
+                <entry>Ab/As</entry>
+                <entry>Ab/Ac</entry>
+                <entrytbl namest="c3" nameend="c11" cols="9">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c9">Lb/Lc</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0.250,330,50,671,01,01,332,0</entry>
+                <entry>0,250,250,50,50,51,01,01,0</entry>
+                <entry>-0,50-1,2-0,50-1,0-2,2-0,60-1,2-2,1</entry>
+                <entry>0-0,40-0,20-0,60-1,50-0,30-0,80-1,4</entry>
+                <entry>0,50,40-0,2-0,95-0,1-0,4-0,9</entry>
+                <entry>1,21,60,250,1-0,5-0,04-0,2-0,5</entry>
+                <entry>2,23,00,450,3000,130-0,2</entry>
+                <entry>3,74,80,70,60,40,210,160</entry>
+                <entry>5,86,81,01,00,80,290,240,2</entry>
+                <entry>8,48,91,51,51,30,360,320,25</entry>
+                <entry>11112,02,01,90,420,380,30</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20292258">Ab - Tiết diện nhánh ống, mm2</para>
+        <para id="id20292273">As - Tiết diện vào của ông chính, mm2</para>
+        <para id="id20292288">Ac- Tiết diện ra của ống chính, mm2</para>
+        <para id="id20292303">Lb - Lưu lượng gió ống nhánh, m3/s</para>
+        <para id="id20292319">Lc - Lưu lượng tổng đầu ra, m3/s</para>
+        <para id="id20292335">bc - Hệ số tổn thất cục bộ khi tính theo đường nhánh từ b đến c</para>
+        <para id="id20292350">sc - Hệ số tổn thất cục bộ khi tính theo đường nhánh từ s đến c</para>
+        <para id="id20292366">Bảng 6.20.b : Hệ số sc , tính cho ống chính</para>
+        <table id="id20292388" summary="">
+          <tgroup cols="11">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <tbody>
+              <row>
+                <entry>Ab/As</entry>
+                <entry>Ab/Ac</entry>
+                <entrytbl namest="c3" nameend="c11" cols="9">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c9">Lb/Lc</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,751,00,750,51,00,750,5</entry>
+                <entry>0,250,50,50,51,01,01,0</entry>
+                <entry>0,300,170,271,200,180,750,80</entry>
+                <entry>0,300,160,351,100,240,360,87</entry>
+                <entry>0,200,100,320,900,270,380,80</entry>
+                <entry>-0,1000,250,650,260,350,68</entry>
+                <entry>-0,45-0,080,120,350,230,270,55</entry>
+                <entry>-0,92-0,18-0,0300,180,180,40</entry>
+                <entry>-1,5-0,27-0,23-0,400,100,050,25</entry>
+                <entry>-2,0-0,37-0,42-0,800-0,080,08</entry>
+                <entry>-2,6-0,46-0,58-1,3-0,12-0,22-0,10</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20293063">c.5.5 Tê hội tụ chữ Y ống nhánh nghiêng góc  với ống chính</para>
+        <para id="id20293084">Bảng 6.21 : Hệ số </para>
+        <table id="id20293096" summary="">
+          <tgroup cols="12">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <tbody>
+              <row>
+                <entry></entry>
+                <entrytbl namest="c2" nameend="c12" cols="11">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <colspec colnum="10" colname="c10"/>
+                  <colspec colnum="11" colname="c11"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c11">L1b/Lc = L2b/Lc</entry>
+                    </row>
+                    <row>
+                      <entry>0</entry>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                      <entry>1,0</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>153045</entry>
+                <entry>-2,6-2,1-1,3</entry>
+                <entry>-1,9-1,5-0,93</entry>
+                <entry>-1,3-1,0-0,55</entry>
+                <entry>-0,77-0,53-0,16</entry>
+                <entry>-0,30-0,100,20</entry>
+                <entry>0,100,280,56</entry>
+                <entry>0,410,690,92</entry>
+                <entry>0,670,911,3</entry>
+                <entry>0,851,11,6</entry>
+                <entry>0,971,42,0</entry>
+                <entry>1,01,62,3</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20293606">c.5.6 Tê hội tụ chữ Y đối xứng tiết diện chữ nhật</para>
+        <para id="id20293615">Trong trường hợp đối xứng :</para>
+        <para id="id20293622">R/Wc = 1,5</para>
+        <para id="id20293631">L1b/Lc = L2b/Lc = 0,5</para>
+        <para id="id20293657">Bảng 6.22 : Hệ số </para>
+        <table id="id20293669" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>A1b/Ac</entry>
+                <entry>0,5</entry>
+                <entry>1,0</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>0,23</entry>
+                <entry>0,07</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20293760">c.6 Đoạn rẽ nhánh</para>
+        <para id="id20293773">- Đoạn ống rẽ nhánh là đoạn ống mà dòng phân thành 2 dòng nhỏ trở lên. Trong trường hợp này tính tổn thất theo tốc độ đầu vào của đoạn ống.</para>
+        <para id="id20293784">Trên hình 6-10 trình bày các trường hợp thường gặp của đoạn ống rẽ nhánh, dưới đây là hệ số trở lực cục bộ cho từng trường hợp cụ thể :</para>
+        <figure id="id20293798">
+          <media id="id1172502166380" alt=""><image src="../../media/graphics9.png" mime-type="image/png" height="292" width="486"/></media>
+        </figure>
+        <para id="id20293822">c.6.1 Tê rẽ nhánh 45o, ống chính và ống nhánh chữ nhật</para>
+        <para id="id20293842">Bảng 6.23 : Hệ số , tính cho ống nhánh</para>
+        <table id="id20293860" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>b/c</entry>
+                <entrytbl namest="c2" nameend="c10" cols="9">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c9">Lb/Lc</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,20,40,60,81,01,21,41,61,8</entry>
+                <entry>0,910,810,770,780,780,901,191,351,44</entry>
+                <entry>0,790,720,730,981,111,221,421,50</entry>
+                <entry>0,700,690,851,161,261,551,75</entry>
+                <entry>0,660,791,231,291,591,74</entry>
+                <entry>0,741,031,541,631,72</entry>
+                <entry>1,861,251,502,24</entry>
+                <entry>0,921,311,63</entry>
+                <entry>1,091,40</entry>
+                <entry>1,17</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20294403">c.6.2 Tê rẽ nhánh 45o, ống chính và ống nhánh chữ nhật có cánh hướng</para>
+        <para id="id20294426">Bảng 6.24 : Hệ số , tính cho ống nhánh</para>
+        <table id="id20294444" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>b/c</entry>
+                <entrytbl namest="c2" nameend="c10" cols="9">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c9">Lb/Lc</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,20,40,60,81,01,21,41,61,8</entry>
+                <entry>0,610,460,430,390,340,370,570,891,33</entry>
+                <entry>0,610,500,430,570,640,711,081,34</entry>
+                <entry>0,540,620,770,851,041,282,04</entry>
+                <entry>0,530,730,981,161,301,78</entry>
+                <entry>0,681,071,54-1,691,90</entry>
+                <entry>0,831,362,092,40</entry>
+                <entry>1,181,812,77</entry>
+                <entry>1,472,23</entry>
+                <entry>1,92</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20294984">c.6.3 Tê rẽ nhánh , ống chính và ống nhánh chữ nhật, không có cánh hướng</para>
+        <para id="id20294994">Bảng 6.25 : Hệ số , tính cho ống nhánh</para>
+        <table id="id20295012" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>b/c</entry>
+                <entrytbl namest="c2" nameend="c10" cols="9">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c9">Lb/Lc</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,20,40,60,81,01,21,41,61,8</entry>
+                <entry>1,031,041,111,161,381,521,792,072,32</entry>
+                <entry>1,011,031,211,401,612,012,282,54</entry>
+                <entry>1,051,171,301,681,902,132,64</entry>
+                <entry>1,121,361,912,312,713,09</entry>
+                <entry>1,271,472,282,993,72</entry>
+                <entry>1,662,202,813,48</entry>
+                <entry>1,952,092,21</entry>
+                <entry>2,202,29</entry>
+                <entry>2,57</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20295554">c.6.4 Tê rẻ nhánh , ống chính và ống nhánh chữ nhật có cánh hướng</para>
+        <para id="id20295566">Bảng 6.26 : Hệ số , tính cho ống nhánh</para>
+        <table id="id20295583" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>b/c</entry>
+                <entrytbl namest="c2" nameend="c10" cols="9">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c9">Lb/Lc</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,20,40,60,81,01,21,41,61,8</entry>
+                <entry>0,580,670,780,881,121,492,102,723,42</entry>
+                <entry>0,640,760,981,051,482,213,304,58</entry>
+                <entry>0,750,811,081,402,252,843,65</entry>
+                <entry>1,011,181,512,293,093,92</entry>
+                <entry>1,291,702,323,304,20</entry>
+                <entry>1,912,483,194,15</entry>
+                <entry>2,533,294,14</entry>
+                <entry>3,164,10</entry>
+                <entry>4,05</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20296125">c.6.5 Tê rẻ nhánh , ống chính và ống nhánh chữ nhật có nhiều cánh hướng</para>
+        <para id="id20296137">Bảng 6.27.a : Hệ số  , tính cho ống nhánh</para>
+        <table id="id20296155" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>b/c</entry>
+                <entrytbl namest="c2" nameend="c10" cols="9">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c9">Lb/Lc</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,20,40,60,81,01,21,41,61,8</entry>
+                <entry>0,600,620,740,991,481,912,473,173,85</entry>
+                <entry>0,690,801,101,121,331,672,403,37</entry>
+                <entry>0,820,951,411,431,702,332,89</entry>
+                <entry>0,901,241,522,042,533,23</entry>
+                <entry>1,211,551,862,313,09</entry>
+                <entry>1,641,982,513,03</entry>
+                <entry>2,473,133,30</entry>
+                <entry>3,253,74</entry>
+                <entry>4,11</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20296697">Bảng 6.27.b : Hệ số  , tính cho ống chính</para>
+        <table id="id20296715" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>b/c</entry>
+                <entry>0,2</entry>
+                <entry>0,4</entry>
+                <entry>0,6</entry>
+                <entry>0,8</entry>
+                <entry>1,0</entry>
+                <entry>1,2</entry>
+                <entry>1,4</entry>
+                <entry>1,6</entry>
+                <entry>1,8</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>0,03</entry>
+                <entry>0,04</entry>
+                <entry>0,07</entry>
+                <entry>0,12</entry>
+                <entry>0,13</entry>
+                <entry>0,14</entry>
+                <entry>0,27</entry>
+                <entry>0,30</entry>
+                <entry>0,25</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20296978">c.6.6 Tê rẻ nhánh , ống chính chữ nhật, ống nhánh tròn</para>
+        <para id="id20296985">Bảng 6.28 : Hệ số  , tính cho ống nhánh</para>
+        <table id="id20297002" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>b/c</entry>
+                <entrytbl namest="c2" nameend="c10" cols="9">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c9">Lb/Lc</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,20,40,60,81,01,21,41,61,8</entry>
+                <entry>1,001,011,141,181,301,461,701,932,06</entry>
+                <entry>1,071,101,311,381,581,822,062,17</entry>
+                <entry>1,081,121,201,451,652,002,20</entry>
+                <entry>1,131,231,311,511,852,13</entry>
+                <entry>1,261,391,561,702,06</entry>
+                <entry>1,481,641,761,98</entry>
+                <entry>1,711,801,99</entry>
+                <entry>1,882,00</entry>
+                <entry>2,07</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20297544">c.6.7 Tê rẻ nhánh , ống chính chữ nhật, ống nhánh tròn có đoạn côn tròn</para>
+        <para id="id20297554">Bảng 6.29 : Hệ số  , tính cho ống nhánh</para>
+        <table id="id20297572" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>b/c</entry>
+                <entry>0,4</entry>
+                <entry>0,5</entry>
+                <entry>0,75</entry>
+                <entry>1,0</entry>
+                <entry>1,3</entry>
+                <entry>1,5</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>0,80</entry>
+                <entry>0,83</entry>
+                <entry>0,90</entry>
+                <entry>1,0</entry>
+                <entry>1,1</entry>
+                <entry>1,4</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20297765">c.6.8 Tê chữ Y rẻ nhánh , tiết diện chữ nhật</para>
+        <para id="id20297776">Bảng 6.30.a : Hệ số  , tính cho ống nhánh</para>
+        <table id="id20297794" summary="">
+          <tgroup cols="11">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <tbody>
+              <row>
+                <entry>Ab/As</entry>
+                <entry>Ab/Ac</entry>
+                <entrytbl namest="c3" nameend="c11" cols="9">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c9">Lb/Lc</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,25</entry>
+                <entry>0,250,330,500,671,001,001,332,00</entry>
+                <entry>0,550,350,620,520,440,670,700,60</entry>
+                <entry>0,500,350,480,400,380,550,600,52</entry>
+                <entry>0,600,500,400,320,380,460,510,43</entry>
+                <entry>0,850,800,400,300,410,370,420,33</entry>
+                <entry>1,201,300,480,340,520,320,340,24</entry>
+                <entry>1,802,000,600,440,680,290,280,17</entry>
+                <entry>3,102,800,780,620,920,290,260,15</entry>
+                <entry>4,403,801,100,921,200,300,260,17</entry>
+                <entry>6,005,001,501,401,600,370,290,21</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20298484">Bảng 6.30.b : Hệ số  , tính cho ống chính</para>
+        <table id="id20298502" summary="">
+          <tgroup cols="11">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <tbody>
+              <row>
+                <entry>Ab/As</entry>
+                <entry>Ab/Ac</entry>
+                <entrytbl namest="c3" nameend="c11" cols="9">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c9">Lb/Lc</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,250,330,50,671,001,001,332,00</entry>
+                <entry>0,250,250,500,500,501,001,001,00</entry>
+                <entry>-0,100,08-0,030,040,72-0,020,100,62</entry>
+                <entry>-0,030-0,06-0,020,48-0,0400,38</entry>
+                <entry>-0,01-0,02-0,05-0,040,28-0,040,010,23</entry>
+                <entry>0,05-0,010-0,030,13-0,01-0,030,13</entry>
+                <entry>0,130,020,06-0,010,050,06-0,010,08</entry>
+                <entry>0,210,080,120,040,040,130,030,05</entry>
+                <entry>0,290,160,190,120,090,220,100,06</entry>
+                <entry>0,380,240,270,230,180,300,200,10</entry>
+                <entry>0,460,340,350,370,300,380,300,20</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20299220">c.7 Đoạn ống rẽ nhánh chữ Y đối xứng</para>
+        <figure id="id20299235">
+          <media id="id1172498421209" alt=""><image src="../../media/graphics10-4874.png" mime-type="image/png" height="244" width="448"/></media>
+        </figure>
+        <para id="id20299259">c.7.1 Đoạn ống chữ Y đối xứng, nhánh rẽ nghiêng với nhánh chính một góc </para>
+        <para id="id20299275">Bảng 6.31 : Hệ số  </para>
+        <table id="id20299292" summary="">
+          <tgroup cols="14">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <colspec colnum="14" colname="c14"/>
+            <tbody>
+              <row>
+                <entry></entry>
+                <entrytbl namest="c2" nameend="c14" cols="13">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <colspec colnum="10" colname="c10"/>
+                  <colspec colnum="11" colname="c11"/>
+                  <colspec colnum="12" colname="c12"/>
+                  <colspec colnum="13" colname="c13"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c13">b/c</entry>
+                    </row>
+                    <row>
+                      <entry>0,1</entry>
+                      <entry>0,2</entry>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,8</entry>
+                      <entry>1,0</entry>
+                      <entry>1,2</entry>
+                      <entry>1,4</entry>
+                      <entry>1,6</entry>
+                      <entry>1,8</entry>
+                      <entry>2,0</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>15o30o45o60o90o</entry>
+                <entry>0,810,840,870,901,00</entry>
+                <entry>0,650,690,740,821,00</entry>
+                <entry>0,510,560,630,791,00</entry>
+                <entry>0,380,440,540,661,00</entry>
+                <entry>0,280,340,450,591,00</entry>
+                <entry>0,200,260,380,531,00</entry>
+                <entry>0,110,190,290,431,00</entry>
+                <entry>0,060,150,240,361,00</entry>
+                <entry>0,140,150,230,331,00</entry>
+                <entry>0,300,300,300,391,00</entry>
+                <entry>0,510,510,510,511,00</entry>
+                <entry>0,760,760,760,761,00</entry>
+                <entry>1,001,001,001,001,00</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20299933">c.7.1 Đoạn ống chữ Y đối xứng, nhánh rẽ vuông góc nhánh chính</para>
+        <para id="id20299941">Bảng 6.32 : Hệ số  </para>
+        <table id="id20299958" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>A1b/Ac hay A2b/Ac</entry>
+                <entry>0,5</entry>
+                <entry>1,0</entry>
+              </row>
+              <row>
+                <entry>R/Wc</entry>
+                <entry>1,5</entry>
+                <entry>1,5</entry>
+              </row>
+              <row>
+                <entry>L1b/Lc hay L2b/Lc</entry>
+                <entry>0,5</entry>
+                <entry>0,5</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>0,30</entry>
+                <entry>0,25</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20300144">c.8 Tổn thất do các vật chắn</para>
+        <para id="id20300157">- Các vật chắn trên hệ thống đường ống chủ yếu là các van điều chỉnh lưu lượng gió, van chặn lửa ...</para>
+        <para id="id20300166">Trên hình 6-12 trình bày 3 dạng van điều chỉnh chủ yếu</para>
+        <para id="id20300174">+ Van điều chỉnh dạng cánh bướm.</para>
+        <para id="id20300181">+ Van điều chỉnh dạng cổng (tròn, chữ nhật)</para>
+        <para id="id20300190">+ Van điều chỉnh kiểu lá sách (song song hoặc đối nhau)</para>
+        <figure id="id20300202">
+          <media id="id4197767" alt=""><image src="../../media/graphics11-a352.png" mime-type="image/png" height="248" width="506"/></media>
+        </figure>
+        <para id="id20300226">c.8.1 Van điều chỉnh gió dạng cánh bướm tròn hoặc tiết diện (hình 6-12, 1)</para>
+        <para id="id20300238">* Tiết diện tròn</para>
+        <para id="id20300243">Bảng 6.33 : Hệ số  </para>
+        <table id="id20300260" summary="">
+          <tgroup cols="12">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <tbody>
+              <row>
+                <entry>D/Do</entry>
+                <entrytbl namest="c2" nameend="c12" cols="11">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <colspec colnum="10" colname="c10"/>
+                  <colspec colnum="11" colname="c11"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c11">, độ</entry>
+                    </row>
+                    <row>
+                      <entry>0o</entry>
+                      <entry>10o</entry>
+                      <entry>20o</entry>
+                      <entry>30o</entry>
+                      <entry>40o</entry>
+                      <entry>50o</entry>
+                      <entry>60o</entry>
+                      <entry>70o</entry>
+                      <entry>75o</entry>
+                      <entry>80o</entry>
+                      <entry>85o</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,50,60,70,80,91,0</entry>
+                <entry>0,190,190,190,190,190,19</entry>
+                <entry>0,270,320,370,450,540,67</entry>
+                <entry>0,370,480,640,871,201,80</entry>
+                <entry>0,490,691,001,602,504,40</entry>
+                <entry>0,610,941,502,605,0011,00</entry>
+                <entry>0,741,202,104,19,6032,00</entry>
+                <entry>0,861,502,806,1017,00113</entry>
+                <entry>0,961,703,508,4030-</entry>
+                <entry>0,991,803,709,4038-</entry>
+                <entry>1,001,903,901045-</entry>
+                <entry>1,001,904,11050-</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20300888">D- Đường kính cánh van, mm</para>
+        <para id="id20300894">Do- Đường kính ống, mm</para>
+        <para id="id20300905">- Góc nghiêng của cánh điều chỉnh so với tâm ống.</para>
+        <para id="id20300918">* Tiết diện chữ nhật</para>
+        <para id="id20300923">Bảng 6.34 : Hệ số  </para>
+        <table id="id20300939" summary="">
+          <tgroup cols="11">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <tbody>
+              <row>
+                <entry>Loại</entry>
+                <entry>H/W</entry>
+                <entrytbl namest="c3" nameend="c11" cols="9">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <colspec colnum="9" colname="c9"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c9">, độ</entry>
+                    </row>
+                    <row>
+                      <entry>0o</entry>
+                      <entry>10o</entry>
+                      <entry>20o</entry>
+                      <entry>30o</entry>
+                      <entry>40o</entry>
+                      <entry>50o</entry>
+                      <entry>60o</entry>
+                      <entry>65o</entry>
+                      <entry>70o</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Loại 1Loại 1Loại 2</entry>
+                <entry>&lt; 0,250,251,0&gt; 1,0</entry>
+                <entry>0,040,080,13</entry>
+                <entry>0,300,330,35</entry>
+                <entry>1,11,21,3</entry>
+                <entry>3,03,33,6</entry>
+                <entry>8,09,010</entry>
+                <entry>232629</entry>
+                <entry>607080</entry>
+                <entry>100128155</entry>
+                <entry>190210230</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20301376">Lưu ý : H, W là chiều cao và rộng của tiết diện van.</para>
+        <para id="id20301382">- Loại 1 : Có trục van song song cạnh lớn của ống</para>
+        <para id="id20301389">- Loại 2 : Có trục van song song cạnh bé của ống</para>
+        <para id="id20301395">-  - Góc nghiêng của trục van với tâm ống</para>
+        <para id="id20301409">c.8.2 Van điều chỉnh dạng cổng tiết diện tròn (hình 6-12, 2) </para>
+        <para id="id20301424">Bảng 6.35 : Hệ số  </para>
+        <table id="id20301441" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>h/D</entry>
+                <entry>0,2</entry>
+                <entry>0,3</entry>
+                <entry>0,4</entry>
+                <entry>0,5</entry>
+                <entry>0,6</entry>
+                <entry>0,7</entry>
+                <entry>0,8</entry>
+                <entry>0,9</entry>
+              </row>
+              <row>
+                <entry>Ah/Ao</entry>
+                <entry>0,25</entry>
+                <entry>0,38</entry>
+                <entry>0,50</entry>
+                <entry>0,61</entry>
+                <entry>0,71</entry>
+                <entry>0,81</entry>
+                <entry>0,90</entry>
+                <entry>0,96</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>35</entry>
+                <entry>10</entry>
+                <entry>4,6</entry>
+                <entry>2,1</entry>
+                <entry>0,98</entry>
+                <entry>0,44</entry>
+                <entry>0,17</entry>
+                <entry>0,06</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20301762">Ao - Tiết diện ống dẫn tròn, m2</para>
+        <para id="id20301777">Ah - Tiết diện của đoạn ống không bị van điều chỉnh che, m2</para>
+        <para id="id20301793">c.8.3 Van điều chỉnh dạng cổng tiết diện chữ nhật (hình 6-12, 3)</para>
+        <para id="id20301806">Bảng 6.36 : Hệ số  </para>
+        <table id="id20301822" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>H/W</entry>
+                <entrytbl namest="c2" nameend="c8" cols="7">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c7">h/H</entry>
+                    </row>
+                    <row>
+                      <entry>0,3</entry>
+                      <entry>0,4</entry>
+                      <entry>0,5</entry>
+                      <entry>0,6</entry>
+                      <entry>0,7</entry>
+                      <entry>0,8</entry>
+                      <entry>0,9</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,51,01,52,0</entry>
+                <entry>14192018</entry>
+                <entry>6,98,89,18,8</entry>
+                <entry>3,34,54,74,5</entry>
+                <entry>1,72,42,72,3</entry>
+                <entry>0,831,21,21,1</entry>
+                <entry>0,320,550,470,51</entry>
+                <entry>0,090,170,110,13</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20302182">c.8.4 Van điều chỉnh dạng lá sách có các cánh song song (hình 6-12, 4) </para>
+        <para id="id20302198">Van điều chỉnh dạng lá sách cánh song song được biểu thị ở các trường hợp 1,3,4 trên hình 6-12</para>
+        <para id="id20302207">Bảng 6.37 : Hệ số  </para>
+        <table id="id20302224" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>L/R</entry>
+                <entrytbl namest="c2" nameend="c9" cols="8">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c8">, độ</entry>
+                    </row>
+                    <row>
+                      <entry>0o</entry>
+                      <entry>10o</entry>
+                      <entry>20o</entry>
+                      <entry>30o</entry>
+                      <entry>40o</entry>
+                      <entry>50o</entry>
+                      <entry>60o</entry>
+                      <entry>70o</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,30,40,50,60,81,01,5</entry>
+                <entry>0,520,520,520,520,520,520,52</entry>
+                <entry>0,790,850,920,920,921,001,00</entry>
+                <entry>1,41,51,51,51,51,61,6</entry>
+                <entry>2,32,42,42,42,52,62,7</entry>
+                <entry>5,05,05,05,45,45,45,4</entry>
+                <entry>999991010</entry>
+                <entry>14161821222428</entry>
+                <entry>323845455565102</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20302774">trong đó :</para>
+        <para id="id20302779">N - Số cánh thẳng song song của van.</para>
+        <para id="id20302785">W - Cạnh song song trục quay của van, mm</para>
+        <para id="id20302791">H- Chiều cao của ống, mm</para>
+        <para id="id20302796">L - Tổng chiều dài của các cánh, mm</para>
+        <para id="id20302802">R- Chu vi đường ống lắp đặt, mm</para>
+        <para id="id20302807">- Góc nghiêng của cánh với trục ống.</para>
+        <para id="id20302818"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>L</m:mi><m:mi>R</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mi>N</m:mi><m:mtext>.</m:mtext><m:mi>W</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>H</m:mi><m:mo stretchy="false">+</m:mo><m:mi>W</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {L}  over  {R} } = {  {N "." W}  over  {2 "."  \( H+W \) } } } {}</m:annotation></m:semantics></m:math>Ta có :</para>
+        <para id="id20302910">(6-19)</para>
+        <para id="id20302936">c.8.5 Van điều chỉnh dạng lá sách có các cánh đối nhau (hình 6-12, 5)</para>
+        <para id="id20302948">Bảng 6.38 : Hệ số  </para>
+        <table id="id20302965" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>L/R</entry>
+                <entrytbl namest="c2" nameend="c9" cols="8">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <colspec colnum="7" colname="c7"/>
+                  <colspec colnum="8" colname="c8"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c8">, độ</entry>
+                    </row>
+                    <row>
+                      <entry>0o</entry>
+                      <entry>10o</entry>
+                      <entry>20o</entry>
+                      <entry>30o</entry>
+                      <entry>40o</entry>
+                      <entry>50o</entry>
+                      <entry>60o</entry>
+                      <entry>70o</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,30,40,50,60,81,01,5</entry>
+                <entry>0,520,520,520,520,520,520,52</entry>
+                <entry>0,850,921,001,001,101,201,40</entry>
+                <entry>2,12,22,32,32,42,73,0</entry>
+                <entry>4,15,05,46,06,67,39,0</entry>
+                <entry>9111314182128</entry>
+                <entry>212833385465107</entry>
+                <entry>73100122148188245361</entry>
+                <entry>284332377411495547677</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20303516">c.9 Tổn thất ở đầu ra của quạt</para>
+        <para id="id20303530"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>L</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>e</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msqrt><m:msub><m:mi>A</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:msqrt></m:mrow><m:mtext>4500</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L rSub { size 8{e} } = {  {ω rSub { size 8{o} }  "."  sqrt {A rSub { size 8{o} } } }  over  {"4500"} } } {}</m:annotation></m:semantics></m:math>c.9.1 Tổn thất ở đầu ra của quạt khi thổi vào không gian rộng</para>
+        <para id="id20303624">(6-20)khi  &gt; 13m/s- Chiều dài hiệu dụng Le</para>
+        <para id="id20303686">(6-21)khi  &lt; 13m/s 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>L</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>e</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:msqrt><m:msub><m:mi>A</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:msqrt><m:mtext>350</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L rSub { size 8{e} } = {  { sqrt {A rSub { size 8{o} } } }  over  {"350"} } } {}</m:annotation></m:semantics></m:math>trong đó :</para>
+        <para id="id20303824">Ab - Diện tích miệng ra của quạt ở vị trí nhỏ nhất, m2</para>
+        <para id="id20303841">o - Tốc độ không khí trong ống dẫn, m/s</para>
+        <para id="id20303857">Le - Chiều dài hiệu dụng, m</para>
+        <para id="id20303867">Ao - Diện tích đường ống , m2</para>
+        <para id="id20303882">L - Chiều dài của đoạn ống thẳng đầu ra của quạt, m</para>
+        <para id="id20303890">Bảng 6.39 : Hệ số  </para>
+        <table id="id20303906" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Ab/Ao</entry>
+                <entrytbl namest="c2" nameend="c6" cols="5">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c5">L/Le</entry>
+                    </row>
+                    <row>
+                      <entry>0</entry>
+                      <entry>0,12</entry>
+                      <entry>0,25</entry>
+                      <entry>0,50</entry>
+                      <entry>&gt; 1</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,40,50,60,70,80,91,0</entry>
+                <entry>2,02,01,00,80,470,220</entry>
+                <entry>1,01,00,660,400,220,140</entry>
+                <entry>0,400,400,330,140,1000</entry>
+                <entry>0,180,180,140000</entry>
+                <entry>0000000</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20304276">c.9.2 Tổn thất ở đầu ra của quạt khi thổi vào các cút </para>
+        <para id="id20304283">Có 2 dạng đầu hút của quạt</para>
+        <para id="id20304290">- Quạt có 01 cửa hút</para>
+        <para id="id20304296">- Quạt có 02 cửa hút</para>
+        <para id="id20304302">Khi đầu ra của quạt nối với cút liên tục. Ta có 4 trường hợp xãy ra</para>
+        <figure id="id20304312">
+          <media id="id1172494294658" alt=""><image src="../../media/graphics12-69ec.png" mime-type="image/png" height="209" width="294"/></media>
+        </figure>
+        <para id="id20304336">Bảng 6.40 : Hệ số  đầu ra quạt có 1 cửa hút</para>
+        <table id="id20304355" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Ab/Ao</entry>
+                <entry>Vị trí co</entry>
+                <entrytbl namest="c3" nameend="c7" cols="5">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c5">L/Le</entry>
+                    </row>
+                    <row>
+                      <entry>0</entry>
+                      <entry>0,12</entry>
+                      <entry>0,25</entry>
+                      <entry>0,5</entry>
+                      <entry>&gt; 1,0</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,4</entry>
+                <entry>ABCD</entry>
+                <entry>3,24,05,85,8</entry>
+                <entry>2,73,34,84,8</entry>
+                <entry>1,82,23,23,2</entry>
+                <entry>0,841,01,51,5</entry>
+                <entry>0000</entry>
+              </row>
+              <row>
+                <entry>0,5</entry>
+                <entry>ABCD</entry>
+                <entry>2,32,84,04,0</entry>
+                <entry>1,92,43,33,3</entry>
+                <entry>1,31,62,22,2</entry>
+                <entry>0,600,721,01,0</entry>
+                <entry>0000</entry>
+              </row>
+              <row>
+                <entry>0,6</entry>
+                <entry>ABCD</entry>
+                <entry>1,62,02,92,9</entry>
+                <entry>1,31,72,42,4</entry>
+                <entry>0,881,11,61,6</entry>
+                <entry>0,400,520,760,76</entry>
+                <entry>0000</entry>
+              </row>
+              <row>
+                <entry>0,7</entry>
+                <entry>ABCD</entry>
+                <entry>1,11,32,02,0</entry>
+                <entry>0,881,11,61,6</entry>
+                <entry>0,600,721,11,1</entry>
+                <entry>0,280,360,520,52</entry>
+                <entry>0000</entry>
+              </row>
+              <row>
+                <entry>0,8</entry>
+                <entry>ABCD</entry>
+                <entry>0,760,961,41,4</entry>
+                <entry>0,640,801,21,2</entry>
+                <entry>0,440,520,760,76</entry>
+                <entry>0,200,240,360,36</entry>
+                <entry>0000</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20305265">Bảng 6.41 : Hệ số  đầu ra quạt có 2 cửa hút</para>
+        <table id="id20305285" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Ab/Ao</entry>
+                <entry>Vị trí co</entry>
+                <entrytbl namest="c3" nameend="c7" cols="5">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c5">L/Le</entry>
+                    </row>
+                    <row>
+                      <entry>0</entry>
+                      <entry>0,12</entry>
+                      <entry>0,25</entry>
+                      <entry>0,5</entry>
+                      <entry>&gt; 1,0</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,4</entry>
+                <entry>ABCD</entry>
+                <entry>3,25,05,84,9</entry>
+                <entry>2,74,24,84,1</entry>
+                <entry>1,82,83,22,7</entry>
+                <entry>0,841,31,51,3</entry>
+                <entry>0000</entry>
+              </row>
+              <row>
+                <entry>0,5</entry>
+                <entry>ABCD</entry>
+                <entry>2,33,64,03,4</entry>
+                <entry>1,93,03,32,8</entry>
+                <entry>1,32,02,21,9</entry>
+                <entry>0,600,901,00,88</entry>
+                <entry>0000</entry>
+              </row>
+              <row>
+                <entry>0,6</entry>
+                <entry>ABCD</entry>
+                <entry>1,62,52,92,5</entry>
+                <entry>1,32,12,42,1</entry>
+                <entry>0,881,41,61,4</entry>
+                <entry>0,400,650,760,65</entry>
+                <entry>0000</entry>
+              </row>
+              <row>
+                <entry>0,7</entry>
+                <entry>ABCD</entry>
+                <entry>1,11,72,01,7</entry>
+                <entry>0,881,41,61,4</entry>
+                <entry>0,600,901,10,92</entry>
+                <entry>0,280,450,520,44</entry>
+                <entry>0000</entry>
+              </row>
+              <row>
+                <entry>0,8</entry>
+                <entry>ABCD</entry>
+                <entry>0,761,21,41,2</entry>
+                <entry>0,641,01,20,99</entry>
+                <entry>0,440,650,760,65</entry>
+                <entry>0,200,300,360,31</entry>
+                <entry>0000</entry>
+              </row>
+              <row>
+                <entry>0,9</entry>
+                <entry>ABCD</entry>
+                <entry>0,600,941,10,95</entry>
+                <entry>0,480,800,920,78</entry>
+                <entry>0,320,550,780,54</entry>
+                <entry>0,160,250,540,24</entry>
+                <entry>0000</entry>
+              </row>
+              <row>
+                <entry>1,0</entry>
+                <entry>ABCD</entry>
+                <entry>0,560,851,00,85</entry>
+                <entry>0,480,700,840,71</entry>
+                <entry>0,320,450,560,48</entry>
+                <entry>0,160,200,280,24</entry>
+                <entry>0000</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20114703">c.10 Tổn thất ở đầu vào của quạt</para>
+        <para id="id20114716">c.10.1 Ống hút tiết diện tròn, nối cút liên tục, cách miệng hút quạt đoạn L</para>
+        <para id="id20114726">Bảng 6.42 : Hệ số  </para>
+        <table id="id20114743" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>R/D</entry>
+                <entrytbl namest="c2" nameend="c4" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">L/D</entry>
+                    </row>
+                    <row>
+                      <entry>0</entry>
+                      <entry>2</entry>
+                      <entry>&gt; 5</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,751,01,52,03,0</entry>
+                <entry>1,41,21,11,00,66</entry>
+                <entry>0,800,660,600,530,40</entry>
+                <entry>0,400,330,330,330,22</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20114956">R - Bán kính cong tâm cút, m</para>
+        <para id="id20114962">D- đường kính ống hút, m</para>
+        <para id="id20114968">L- Khoảng cách từ miệng hút của quạt ly tâm tới cút, m</para>
+        <para id="id20114976">c.10.2 Ống hút tiết diện tròn, nối cút thẳng góc hoặc cút ghép từ nhiều mãnh, cách miệng hút một khoảng L</para>
+        <para id="id20114987">- Cút thẳng góc:</para>
+        <para id="id20114993">Bảng 6.43: Hệ số  </para>
+        <table id="id20115010" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>L/D</entry>
+                <entry>0</entry>
+                <entry>2</entry>
+                <entry>&gt; 5</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>3,2</entry>
+                <entry>2</entry>
+                <entry>1</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20115117">- Cút thẳng góc ghép từ 3 và 4 đoạn đoạn:</para>
+        <para id="id20115126">Bảng 6.44 : Hệ số  </para>
+        <table id="id20115143" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>R/D</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">L/D</entry>
+                      <entry/>
+                    </row>
+                    <row>
+                      <entry>0</entry>
+                      <entry>2</entry>
+                      <entry>&gt; 5</entry>
+                      <entry/>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>R/D</entry>
+                <entrytbl namest="c7" nameend="c9" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">L/D</entry>
+                    </row>
+                    <row>
+                      <entry>0</entry>
+                      <entry>2</entry>
+                      <entry>&gt; 5</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,500,751,01,52,03,0</entry>
+                <entry>2,51,61,21,11,00,8</entry>
+                <entry>1,61,00,660,660,530,47</entry>
+                <entry>0,800,470,330,330,330,26</entry>
+                <entry/>
+                <entry>0,500,751,01,52,03,0</entry>
+                <entry>1,81,41,21,11,00,66</entry>
+                <entry>1,00,800,660,600,530,40</entry>
+                <entry>0,530,400,330,330,330,22</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20115618">a) Cút ghép từ 3 mãnh b) Cút ghép từ 4 mãnh</para>
+        <para id="id20115638">c.10.2 Ống hút tiết diện vuông, nối cút cong liên tục qua đoạn ống thẳng dài L và đoạn ống chuyển đổi tiết diện vuông-tròn</para>
+        <para id="id20115653">Bảng 6.45 : Hệ số  </para>
+        <table id="id20115669" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>R/D</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">L/D</entry>
+                      <entry/>
+                    </row>
+                    <row>
+                      <entry>0</entry>
+                      <entry>2,5</entry>
+                      <entry>&gt; 6</entry>
+                      <entry/>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>R/D</entry>
+                <entrytbl namest="c7" nameend="c9" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">L/D</entry>
+                    </row>
+                    <row>
+                      <entry>0</entry>
+                      <entry>2,5</entry>
+                      <entry>&gt; 6</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0,500,751,01,52,0</entry>
+                <entry>2,52,01,21,00,8</entry>
+                <entry>1,61,20,660,570,47</entry>
+                <entry>0,800,660,330,300,26</entry>
+                <entry/>
+                <entry>0,501,01,52,0</entry>
+                <entry>0,800,530,400,26</entry>
+                <entry>0,470,330,280,22</entry>
+                <entry>0,260,180,160,14</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20116094">d. Xác định hệ tổn thất cục bộ theo chiều dài tương đương</para>
+        <para id="id20116104">Theo định nghĩa chiều dài tương đương là chiều dài của đoạn ống thẳng có tiết diện bằng tiết diện tính toán của chi tiết gây nên tổn thất cục bộ, nhưng có tổn thất tương đương nhau . Hay</para>
+        <para id="id20116117">ltđ = .dtđ / (6-22)</para>
+        <para id="id20116151">pc = ltđ . p1</para>
+        <para id="id20116180">d.1 Chiều dài tương đương của cút tròn</para>
+        <para id="id20116193">Bảng 6.46 : Chiều dài tương đương ltđ </para>
+        <table id="id20116211" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Dạng cút tròn</entry>
+                <entry>R/d</entry>
+                <entry>a = ltđ/d</entry>
+              </row>
+              <row>
+                <entry>- Cút 90o, cong liên tục</entry>
+                <entry>1,5</entry>
+                <entry>9</entry>
+              </row>
+              <row>
+                <entry>- Cút 90o, ghép từ 3 đoạn</entry>
+                <entry>1,5</entry>
+                <entry>17</entry>
+              </row>
+              <row>
+                <entry>- Cút 90o, ghép từ 5 đoạn</entry>
+                <entry>1,5</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>- Cút 45o, ghép từ 3 đoạn</entry>
+                <entry>1,5</entry>
+                <entry>6</entry>
+              </row>
+              <row>
+                <entry>- Cút 45o, cong liên tục</entry>
+                <entry>1,5</entry>
+                <entry>4,5</entry>
+              </row>
+              <row>
+                <entry>- Cút thẳng góc + Có hướng dòng+ Không có hướng dòng</entry>
+                <entry/>
+                <entry>2265</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20116510">Trong đó:</para>
+        <para id="id20116515">R - Bán kính cong của tâm cút, mm</para>
+        <para id="id20116522">d- đường kính tiết diện cút, mm</para>
+        <para id="id20116528">d.2 Chiều dài tương đương của cút chữ nhật</para>
+        <para id="id20116542">Bảng 6.47 : Chiều dài tương đương ltđ </para>
+        <table id="id20116559" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Dạng cút tròn</entry>
+                <entry>Hình dạng</entry>
+                <entry>W/H</entry>
+                <entry>ltđ/d</entry>
+              </row>
+              <row>
+                <entry>- Cút cong 90o, không cánh hướng R=1,25 W</entry>
+                <entry/>
+                <entry>0,5136</entry>
+                <entry>57812</entry>
+              </row>
+              <row>
+                <entry>-Cút cong 90o, 1 cánh hướng dòng, R = 0,75.W</entry>
+                <entry/>
+                <entry>0,5136</entry>
+                <entry>8101418</entry>
+              </row>
+              <row>
+                <entry>-Cút cong 90o, 2 cánh hướng dòng, R = 0,75.W</entry>
+                <entry/>
+                <entry>0,5136</entry>
+                <entry>781012</entry>
+              </row>
+              <row>
+                <entry>-Cút cong 90o, 3 cánh hướng dòng, R = 0,75.W</entry>
+                <entry/>
+                <entry>0,5136</entry>
+                <entry>77810</entry>
+              </row>
+              <row>
+                <entry>-Cút thẳng góc 90o, có nhiều cánh hướng</entry>
+                <entry/>
+                <entry>0,5136</entry>
+                <entry>8101213</entry>
+              </row>
+              <row>
+                <entry>-Cút thẳng góc 90o, nhiều cánh hướng dạng khí động</entry>
+                <entry/>
+                <entry>0,5136</entry>
+                <entry>68910</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id-718290451912">
+      <title>Tính toán thiết kế đường ống dẫn không khí. </title>
+      <para id="id20117072">1) Các phương pháp thiết kế kênh gió</para>
+      <para id="id20117078">Cho tới nay có rất nhiều phương pháp thiết kế đường ống gió . Tuy nhiên mỗi phương pháp có những đặc điểm riêng. Lựa chọn phương pháp thiết kế nào là tuỳ thuộc vào đặc điểm công trình, thói quen của người thiết kế và các thiết bị phụ trợ đi kèm đường ống.</para>
+      <para id="id20117094">Người ta thường sử dụng các phương pháp chủ yếu sau đây: </para>
+      <para id="id20117102">- Phương pháp tính toán lý thuyết : Phương pháp này dựa vào các công thức lý thuyết trên đây , nhằm thiết kế mạng đường ống thoả mãn yêu cầu duy trì áp suất tĩnh không đổi. Đây là phương pháp có thể coi là chính xác nhất. Tuy nhiên phương pháp này tính toán khá phức tạp.</para>
+      <para id="id20117123">- Phương pháp giảm dần tốc độ. Người thiết kế bằng kinh nghiệm của mình chủ động thiết kế giảm dần tốc độ theo chiều chuyển động của không khí trong đường ống. Đây là phương pháp thiết kế tương đối nhanh nhưng phụ thuộc nhiều vào chủ quan người thiết kế.</para>
+      <para id="id20117145">- Phương pháp ma sát đồng đều : Thiết kế hệ thống kênh gió sao cho tổn thất trên 1 m chiều dài đường ống đều nhau trên toàn tuyến, ở bất cứ tiết diện nào và bằng tổn thất trên 1m chiều dài đoạn ống chuẩn. Đây là phương pháp được sử dụng phổ biến nhất, nhanh và tương đối chính xác.</para>
+      <para id="id20117165">- Phương pháp phục hồi áp suất tĩnh</para>
+      <para id="id20117175">Phương pháp phục hồi áp suất tĩnh xác định kích thước của ống dẫn sao cho tổn thất áp suất trên đoạn đó đúng bằng độ gia tăng áp suất tĩnh do sự giảm tốc độ chuyển động của không khí sau mỗi nhánh rẽ . </para>
+      <para id="id20117189">Phương pháp này tương tự phương pháp lý thuyết nhưng ở đây để thiết kế người ta chủ yếu sử dụng các đồ thị.</para>
+      <para id="id20117199">Ngoài các phương pháp trên người ta còn sử dụng một số phương pháp sau đây :</para>
+      <para id="id20117207">- Phương pháp T</para>
+      <para id="id20117213">- Phương pháp tốc độ không đổi</para>
+      <para id="id20117219">- Phương pháp áp suất tổng.</para>
+      <para id="id20117225">2) Phương pháp thiết kế lý thuyết</para>
+      <para id="id20117231">Nội dung của phương pháp như sau</para>
+      <para id="id20117237">Dựa vào phương trình (6-5) tiến hành thiết kế mạng đường ống đảm bảo áp suất tĩnh không đổi ở tất cả các cửa rẽ nhánh của toàn tuyến ống (H=0) . </para>
+      <para id="id20117254">Các bước thiết kế:</para>
+      <para id="id20117260">Bước 1 - Chọn tốc độ đoạn ống đầu tiên 1 . Dựa vào lưu lượng gió, xác định kích thước của đoạn ống đầu tiên.</para>
+      <para id="id20117283">Bước 2 - Xác định tốc độ các đoạn tiếp theo 2 dựa vào phương trình :</para>
+      <para id="id20117306">(21 - 22)/2 - p12 = 0</para>
+      <para id="id20117354">trong đó p12 tổng tổn thất áp suất tĩnh từ điểm phân nhánh thứ nhất đến điểm phân nhánh thứ 2, bao gồm tổn thất ma sát và các tổn thất cục bộ. Trong công thức này cần lưu ý là các tổn thất được tính theo tốc độ 2, vì vậy để xác định 2 cần phải tính lặp.</para>
+      <para id="id20117400">Dựa vào lưu lượng đoạn kế tiếp, xác định kích thước đoạn đó</para>
+      <para id="id20117407">F2 = L2/2</para>
+      <para id="id20117430">Bước 3 - Tiếp tục xác định tuần tự tốc độ và kích thước các đoạn kế tiếp cho đến đoạn cuối cùng của tuyến ống như đã tính ở bước 2</para>
+      <para id="id20117447">Phương pháp lý thuyết có các đặc điểm sau:</para>
+      <para id="id20117453">- Các kết quả tính toán chính xác, tin cậy cao.</para>
+      <para id="id20117461">- Tính toán tương đối dài và phức tạp, nên thực tế ít sử dụng.</para>
+      <para id="id20117469">3)Phương pháp giảm dần tốc độ</para>
+      <para id="id20117477">Nội dung của phương pháp giảm dần tốc độ là người thiết kế bằng kinh nghiệm của mình lựa chọn tốc độ trên cơ sở độ ồn cho phép và chủ động giảm dần tốc độ các đoạn kế tiếp dọc theo chiều chuyển động của không khí.</para>
+      <para id="id20117497">Phương pháp giảm dần tốc độ được thực hiện theo các bước sau :</para>
+      <para id="id20117505">Bước 1 : Chọn tốc độ trên kênh chính trước khi rẽ nhánh 1.</para>
+      <para id="id20117527">Chủ động giảm dần tốc độ gió dọc theo tuyến ống chính và ống rẽ nhánh 2, 3... n</para>
+      <para id="id20117566">Bước 2: </para>
+      <para id="id20117576">Trên cơ sở lưu lượng và tốc độ trên mỗi đoạn tiến hành tính toán kích thước của các đoạn đó.</para>
+      <para id="id20117587">Fi = Li/i</para>
+      <para id="id20117610">Bước 3 :</para>
+      <para id="id20117620">Dựa vào đồ thị xác định tổn thất áp suất theo tuyến ống dài nhất (tuyến có trở lực lớn nhất) . Tổng trở lực theo tuyến này là cơ sở để chọn quạt.</para>
+      <para id="id20117634">Phương pháp giảm dần tốc độ có nhược điểm là phụ thuộc nhiều vào chủ quan của người thiết kế, vì thế các kết quả là rất khó đánh giá.</para>
+      <para id="id20117645">Đây là một phương pháp đơn giản, cho phép thực hiện nhanh nhưng đòi hỏi người thiết kế phải có kinh nghiệm.</para>
+      <para id="id20117653">4) Phương pháp ma sát đồng đều</para>
+      <para id="id20117659">Nội dung của phương pháp ma sát đồng đều là thiết kế hệ thống kênh gió sao cho tổn thất áp suất trên 1m chiều dài đường ống bằng nhau trên toàn tuyến ống. Phương pháp này cũng đảm bảo tốc độ giảm dần và thường hay được sử dụng cho kênh gió tốc độ thấp với chức năng cấp gió, hồi gió và thải gió.</para>
+      <para id="id20117680">Có hai cách tiến hành tính toán</para>
+      <para id="id20117686">- Cách 1 : Chọn tiết diện đoạn đầu nơi gần quạt làm tiết diện điển hình, chọn tốc độ không khí thích hợp cho đoạn đó . Từ đó xác định kích thước, tổn thất ma sát trên 1m chiều dài của đoạn ống điển hình. Giá trị tổn thất đó được coi là chuẩn trên toàn tuyến ống.</para>
+      <para id="id20117707">- Cách 2 : Chọn tổn thất áp suất hợp lý và giữ nguyên giá trị đó trên toàn bộ hệ thống kênh gió. Trên cơ sở lưu lượng từng đoạn đã biết tiến hành xác định kích thước từng đoạn. </para>
+      <para id="id20117726">Cách 2 có nhược điểm là lựa chọn tổn thất thế nào là hợp lý. Nếu chọn tổn thất bé thì kích thước đường ống lớn, nhưng nếu chọn tốc độ lớn sẽ gây ồn, chi phí vận hành tăng.</para>
+      <para id="id20117742">Trên thực tế người ta chọn cách thứ nhất . Sau đây là các bước thiết kế:</para>
+      <para id="id20117750">Bước 1 : Lựa chọn tiết diện đầu làm tiết diện điển hình. Chọn tốc độ cho tiết diện đó và tính kích thước đoạn ống điển hình : diện tích tiết diện f, kích thước các cạnh a,b và đường kính tương đương dtđ.</para>
+      <para id="id20117778">Từ lưu lượng và tốc độ tiến hành xác định tổn thất áp suất cho 1 m ống tiết diện điển hình (dựa vào đồ thị hình 6-4) . Giá trị đó được cố định cho toàn tuyến.</para>
+      <para id="id20117792">Bước 2 :</para>
+      <para id="id20117802">Trên cơ sở tổn thất chuẩn tính kích thước các đoạn còn lại dựa vào lưu lượng đã biết. Người ta nhận thấy với điều kiện tổn thất áp suất không đổi thì với một tỷ lệ % lưu lượng so với tiết diện điển hình sẽ có tỷ lệ phần trăm tương ứng về tiết diện. Để quá trình tính toán được dễ dàng và thuận tiện người ta đã xây dựng mối quan hệ tỷ lệ % tiết diện so với đoạn ống điển hình theo tỷ lệ % lưu lượng cho ở bảng 6-48.</para>
+      <para id="id20117825"> Bước 3 :</para>
+      <para id="id20117838">Tổng trở lực đoạn ống có chiều dài tương đương lớn nhất là cơ sở để chọn quạt dàn lạnh.</para>
+      <para id="id20117849">Bảng 6-48 : Xác định tỷ lệ phần trăm tiết diện theo phương pháp ma sát đồng đều</para>
+      <table id="id20117857" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry>Lưu lượng, %</entry>
+              <entry>Tiết diện%</entry>
+              <entry>Lưu lượng, %</entry>
+              <entry>Tiết diện%</entry>
+              <entry>Lưu lượng, %</entry>
+              <entry>Tiết diện%</entry>
+              <entry>Lưu lượng, %</entry>
+              <entry>Tiết diện%</entry>
+            </row>
+            <row>
+              <entry>12345678910111213141516171819202122232425</entry>
+              <entry>2,03,55,57,09,010,511,513,014,516,517,518,519,520,521,524,024,025,026,027,028,029,530,531,532,5</entry>
+              <entry>26272829303132333435363738394041424344454647484950</entry>
+              <entry>33,534,535,536,537,539,040,041,042,043,044,045,046,047,048,049,050,051,052,053,054,055,056,057,058,0</entry>
+              <entry>51525354555657585960616263646566676869707172737475</entry>
+              <entry>59,060,061,062,063,064,065,065,566,567,568,069,070,071,071,572,573,574,575,576,577,078,079,080,080,5</entry>
+              <entry>767778798081828384858687888990919293949596979899100</entry>
+              <entry>81,082,083,084,084,585,586,087,087,588,589,590,090,591,592,093,094,094,595,096,096,597,598,099,0100</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id20118876">- Phương pháp ma sát đồng đều có ưu điểm là thiết kế rất nhanh, người thiết kế không bắt buộc phải tinh toán tuần tự từ đầu tuyến ống đến cuối mà có thể tính bất cứ đoạn ống nào tuỳ ý, điều này có ý nghĩa trên thực tế thi công ở công trường. </para>
+      <para id="id20118892">- Phương pháp ma sát đồng đều cũng đảm bảo tốc độ giảm dần dọc theo chiều chuyển động, có độ tin cậy cao hơn phương pháp giảm dần tốc độ.</para>
+      <para id="id20118903">- Không đảm bảo phân bố lưu lượng đều trên toàn tuyến nên các miệng thổi cần phải bố trí thêm van điều chỉnh.</para>
+      <para id="id20118914">- Việc lựa chọn tổn thất cho 1m ống khó khăn. Thường chọn p= 0,5 - 1,5 N/m2 cho 1 m ống</para>
+      <para id="id20118933">- Phương pháp ma sát đồng đều được sử dụng rất phổ biến.</para>
+      <para id="id20118941">Ví dụ 1:</para>
+      <para id="id20118950"><figure id="id20118953"><media id="id1172508382732" alt=""><image src="graphics13.wmf" mime-type="image/wmf" height="296" width="524"/></media></figure>Giả sử có 08 một kênh gió thổi có 8 miệng thổi với các đặc điểm trên hình 6-14. Lưu lượng yêu cầu cho môi miệng thổi là 0,32 m3/s. Thiết kế hệ thống kênh gió .</para>
+      <para id="id20119009">Hình 6-14 : Sơ đồ đường ống</para>
+      <para id="id20119015">Bước 1: Chọn và xác định các thông số tiết diện điển hình</para>
+      <para id="id20119023">- Chọn đoạn đầu tiên AB làm tiết diện điển hình. Lưu lượng gió qua tiết diện đầu là</para>
+      <para id="id20119031">L1 = 8 x 0,32 = 2,56 m3/s</para>
+      <para id="id20119046">- Chọn tốc độ đoạn đầu 1 = 8 m/s</para>
+      <para id="id20119064">- Diện tích tiết diện đoạn ống đầu : f1 = L1/1 = 2,56 / 8 = 0,32 m2</para>
+      <para id="id20119097">- Chọn kích thước đoạn đầu : 800x400mm</para>
+      <para id="id20119105">- Tra bảng (6-3) ta có đường kính tương đương : dtđ = 609mm</para>
+      <para id="id20119117">- Dựa vào lưu lượng L1 = 2560 L/s và dtđ = 609mm tra đồ thị ta được tổn thất p1 = 1,4 Pa/m.</para>
+      <para id="id20119151">Bước 2 : Thiết kế các đoạn ống</para>
+      <para id="id20119158">Trên cơ sở tỷ lệ phần trăm lưu lượng của các đoạn kế tiếp ta xác định được tỷ lệ phần trăm diện tích của nó, xác định kích thước ai x bi của các đoạn đó, xác định diện tích thực và tốc độ thực. </para>
+      <para id="id20119189">Bảng 6-49 : Kết quả tính toán</para>
+      <table id="id20119195" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Đoạn</entry>
+              <entrytbl namest="c2" nameend="c5" cols="4">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c2">Lưu lượng</entry>
+                    <entry namest="c3" nameend="c4">Tiết diện</entry>
+                  </row>
+                  <row>
+                    <entry>%</entry>
+                    <entry>m3/s</entry>
+                    <entry>%</entry>
+                    <entry>m2</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>Tốc độ</entry>
+              <entry>Kích thướca x b (mm)</entry>
+            </row>
+            <row>
+              <entry>AB</entry>
+              <entry>100</entry>
+              <entry>2,56</entry>
+              <entry>100</entry>
+              <entry>0,32</entry>
+              <entry>8 m/s</entry>
+              <entry>800 x 400</entry>
+            </row>
+            <row>
+              <entry>BC</entry>
+              <entry>87,5</entry>
+              <entry>2,24</entry>
+              <entry>90,2</entry>
+              <entry>0,289</entry>
+              <entry>7,76</entry>
+              <entry>725 x 400</entry>
+            </row>
+            <row>
+              <entry>CD</entry>
+              <entry>75</entry>
+              <entry>1,92</entry>
+              <entry>80,5</entry>
+              <entry>0,258</entry>
+              <entry>7,45</entry>
+              <entry>600 x 400</entry>
+            </row>
+            <row>
+              <entry>DE</entry>
+              <entry>62,5</entry>
+              <entry>1,60</entry>
+              <entry>70</entry>
+              <entry>0,224</entry>
+              <entry>7,14</entry>
+              <entry>550 x 400</entry>
+            </row>
+            <row>
+              <entry>EF</entry>
+              <entry>50</entry>
+              <entry>1,28</entry>
+              <entry>58</entry>
+              <entry>0,186</entry>
+              <entry>6,90</entry>
+              <entry>475 x 400</entry>
+            </row>
+            <row>
+              <entry>FG</entry>
+              <entry>37,5</entry>
+              <entry>0,96</entry>
+              <entry>46</entry>
+              <entry>0,147</entry>
+              <entry>6,52</entry>
+              <entry>475 x 300</entry>
+            </row>
+            <row>
+              <entry>GH</entry>
+              <entry>25</entry>
+              <entry>0,64</entry>
+              <entry>32,5</entry>
+              <entry>0,104</entry>
+              <entry>6,15</entry>
+              <entry>350 x 300</entry>
+            </row>
+            <row>
+              <entry>HK</entry>
+              <entry>12,5</entry>
+              <entry>0,32</entry>
+              <entry>19,5</entry>
+              <entry>0,062</entry>
+              <entry>5,13</entry>
+              <entry>300 x 200</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id20119954">Bước 3 : Tính tổng trở lực</para>
+      <para id="id20119960">Bảng 6.50</para>
+      <table id="id20119968" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Đoạn</entry>
+              <entry>Chi tiết</entry>
+              <entry>dtđ , mm</entry>
+              <entry>Chiều dài, m</entry>
+              <entry>Chiều dàitương đương, m</entry>
+            </row>
+            <row>
+              <entry>AB</entry>
+              <entry>Đường ống</entry>
+              <entry>609</entry>
+              <entry>5</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>BC</entry>
+              <entry>Đường ốngCút</entry>
+              <entry>583</entry>
+              <entry>12</entry>
+              <entry>4,1</entry>
+            </row>
+            <row>
+              <entry>CD</entry>
+              <entry>Đường ống</entry>
+              <entry>533</entry>
+              <entry>5</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>DE</entry>
+              <entry>Đường ống</entry>
+              <entry>511</entry>
+              <entry>5</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>EF</entry>
+              <entry>Đường ống</entry>
+              <entry>476</entry>
+              <entry>5</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>FG</entry>
+              <entry>Đường ống</entry>
+              <entry>410</entry>
+              <entry>5</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>GH</entry>
+              <entry>Đường ốngCút</entry>
+              <entry>354</entry>
+              <entry>12</entry>
+              <entry>2,5</entry>
+            </row>
+            <row>
+              <entry>HK</entry>
+              <entry>Đường ống</entry>
+              <entry>266</entry>
+              <entry>5</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id20120459">Tổng chiều dài tương đương của đoạn AK là 60,6m bao gồm các đoạn ống thẳng và chiều dài tương đương của các cút.</para>
+      <para id="id20120468">Tổng trở lực đường ống :</para>
+      <para id="id20120474">p = 60,6 x 1,4 = 84,84 Pa</para>
+      <para id="id20120483">5) Phương pháp phục hồi áp suất tĩnh</para>
+      <para id="id20120489">Nội dung của phương pháp phục hồi áp suất tĩnh xác định kích thước của ống dẫn sao cho tổn thất áp suất trên đoạn đó đúng bằng độ gia tăng áp suất tĩnh do sự giảm tốc độ chuyển động của không khí sau mỗi nhánh rẽ. </para>
+      <para id="id20120504">Phương pháp phục hồi áp suất tĩnh được sử dụng cho ống cấp gió, không sử dụng cho ống hồi. Về thực chất nội dung của phương pháp phục hồi áp suất tĩnh giống phương pháp lý thuyết , tuy nhiên ở đây người ta căn cứ vào các đồ thị để xác định tốc độ đoạn ống kế tiếp.</para>
+      <para id="id20120523">Các bước tính thiết kế :</para>
+      <para id="id20120530">Bước 1: - Chọn tốc độ hợp lý của đoạn ống chính ra khỏi quạt 1 và tính kích thước đoạn ống đó.</para>
+      <para id="id20120553">Bước 2: Xác định tốc độ đoạn kế tiếp như sau</para>
+      <para id="id20120565">- Xác định tỉ số Ltđ/Q0,61 dựa vào tính toán hoặc đồ thị (hình 6-16) cho đoạn ống đầu.</para>
+      <para id="id20120587">trong đó </para>
+      <para id="id20120592">Ltđ - Chiều dài tương đương của đoạn đầu gồm chiều dài thực đường ống cộng với chiều dài tương đương tất cả các cút.</para>
+      <para id="id20120607">Q - lưu lượng gió trên đoạn đầu</para>
+      <para id="id20120618">- Dựa vào tốc độ đoạn đầu 1 và tỷ số a = Ltđ/Q0,61 , theo đồ thị hình (6-13) xác định tốc độ đoạn ống tiếp theo , tức là tốc độ sau đoạn rẽ nhánh thứ nhất 2.</para>
+      <para id="id20120661">- Xác định kích thước đoạn ống thứ 2</para>
+      <para id="id20120669">F2 = L2/2</para>
+      <para id="id20120693">Bước 3: Xác định tốc độ và kích thước đoạn kế tiếp như đã xác định với đoạn thứ 2</para>
+      <para id="id20120706">* Đặc điểm của phương pháp phục hồi áp suất tĩnh</para>
+      <para id="id20120713">- Đảm bảo phân bố lưu lượng đều và do đó hệ thống không cần van điều chỉnh.</para>
+      <para id="id20120724">- Tốc độ cuối tuyến ống thấp hơn nên đảm bảo độ ồn cho phép.</para>
+      <para id="id20120732">- Khối lượng tính toán tương đối nhiều.</para>
+      <para id="id20120739"><figure id="id20120742"><media id="id4625218" alt=""><image src="graphics14.wmf" mime-type="image/wmf" height="296" width="524"/></media></figure>- Kích thước đường ống lớn hơn các cách tính khác nhất là các đoạn rẽ nhánh, nên chi phí đầu tư cao.</para>
+      <para id="id20120789">Ví dụ 2:</para>
+      <para id="id20120798">Thiết kế hệ thống kênh dẫn gió cho hệ thống kênh gió gồm 4 miệng thổi , mỗi miệng có lưu lượng gió là 0,9 m3/s. Kích thước các đoạn như trên hình 6-15.</para>
+      <para id="id20120818">Hình 6-15 : Sơ đồ đường ống</para>
+      <para id="id20120824">* Xác định các thông số đoạn đầu </para>
+      <para id="id20120830">- Lựa chọn tốc độ đoạn AB : 1 = 12 m/s</para>
+      <para id="id20120845">- Lưu lượng gió : Q1 = 4 x 0,9 = 3,6 m3/s</para>
+      <para id="id20120861">- Tiết diện đoạn đầu : F1 = 3,6/12 = 0,3m2</para>
+      <para id="id20120876">- Kích thước các cạnh 600 x 500mm</para>
+      <para id="id20120882">- Tra bảng ta có đường kính tương đương : dtđ = 598 mm</para>
+      <para id="id20120894">- Tổn thất cho 1m ống : 0,4 Pa/m</para>
+      <para id="id20120900">* Xác định tốc độ và kích thước đoạn tiếp</para>
+      <para id="id20120906">- Tỷ số a= L/Q0,61 : L1/Q0,61 = 49 / 7628 0,61 = 0,211</para>
+      <para id="id20120935">- Xác định 2 theo đồ thị với 1 =7628 FPM và L/Q0,61 = 0,211 : 2 = 2000 FPM </para>
+      <para id="id20120980">hay 2 = 10,16 m/s</para>
+      <para id="id20120994">* Xác định các đoạn kế tiếp một cách tương tự bước 2 và ghi kết quả vào bảng dưới đây</para>
+      <para id="id20121009">Bảng 6-51 : bảng kết quả tính toán</para>
+      <table id="id20121015" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry>Tiết diện</entry>
+              <entrytbl namest="c2" nameend="c7" cols="6">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <colspec colnum="6" colname="c6"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c2">Lưu lượng</entry>
+                    <entry namest="c3" nameend="c4">Tốc độ</entry>
+                    <entry namest="c5" nameend="c6">Ltđ</entry>
+                  </row>
+                  <row>
+                    <entry>m3/s</entry>
+                    <entry>CFM</entry>
+                    <entry>m/s</entry>
+                    <entry>FPM</entry>
+                    <entry>m</entry>
+                    <entry>FT</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>L/Q0,61</entry>
+            </row>
+            <row>
+              <entry>AB</entry>
+              <entry>3.6</entry>
+              <entry>7628</entry>
+              <entry>12</entry>
+              <entry>2362</entry>
+              <entry>15</entry>
+              <entry>49</entry>
+              <entry>0.211</entry>
+            </row>
+            <row>
+              <entry>BC</entry>
+              <entry>2.7</entry>
+              <entry>5721</entry>
+              <entry>10.16</entry>
+              <entry>2000</entry>
+              <entry>12</entry>
+              <entry>39</entry>
+              <entry>0.201</entry>
+            </row>
+            <row>
+              <entry>CD</entry>
+              <entry>1.8</entry>
+              <entry>3814</entry>
+              <entry>8.53</entry>
+              <entry>1680</entry>
+              <entry>10</entry>
+              <entry>33</entry>
+              <entry>0.214</entry>
+            </row>
+            <row>
+              <entry>DE</entry>
+              <entry>0.9</entry>
+              <entry>1907</entry>
+              <entry>7.32</entry>
+              <entry>7</entry>
+              <entry>11</entry>
+              <entry>36</entry>
+              <entry>0.360</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id20121560">Hình 6-16 : Đồ thị xác định tốc độ đoạn ống kế tiếp</para>
+    </section>
+  </content>
+</document>
